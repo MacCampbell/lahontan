@@ -29,3 +29,15 @@ sites<- loci %>% select(Chromosome, Position, Major, Minor, Frequency_LCT)
 sites
 write_tsv(sites, col_names = FALSE, file="meta/LCT_fixedSNPs_AF_perBasin_July12.tsv")
 ```
+
+
+Executing like so:    
+
+`./100.1-extract-flanking.pl meta/LCT_fixedSNPs_AF_perBasin_July12.tsv > outputs/100/LCT_fixedSNPs_AF_perBasin_July12.fasta`     
+ 
+ 
+ Making a .tsv version like so:
+ 
+ `cat outputs/100/LCT_fixedSNPs_AF_perBasin_July12.fasta  | perl -pe 's/(\d)\n/$1\t/g' | perl -pe 's/>//g' > outputs/100/LCT_fixedSNPs_AF_perBasin_July12.tsv `
+ 
+ 
