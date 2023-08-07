@@ -53,7 +53,7 @@ my @dat = ReadInFASTA($fasta);
 my @a = split($sep, $dat[0]);
 my @sequence = split(//, $a[1]);
 
-print ">".$chrom."-site-".$site."-Major-".$major."-Minor-".$minor."-".$maf."\n";
+print ">".$chrom."-site-".$site."-Major-".$major."-Minor-".$minor."-Freq-LCT-".$maf."\n";
 print @sequence[(0)..($buffer-1)];
 #print $sequence[$site-1]; Replacing site-1 with major/minor
 print "[$major/$minor]";
