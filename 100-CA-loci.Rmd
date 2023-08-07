@@ -1,0 +1,31 @@
+---
+title: "100-CA-loci"
+output: html_document
+date: "2023-08-07"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message=FALSE)
+```
+
+```{r}
+library(tidyverse)
+```
+
+Need to get list of loci and prepare fasta with [Major/Minor] identified and 250 bp flanking data.     
+
+Looks like this:
+
+```{r}
+loci<-read_csv("meta/LCT_fixedSNPs_AF_perBasin_July12.csv")
+loci
+```
+
+We want a tab-delimited input (sites.txt)      
+Chrom  Site    Major   Minor MAF     
+Frequency_LCT istead of MAF
+```{r}
+sites<- loci %>% select(Chromosome, Position, Major, Minor, Frequency_LCT)
+sites
+write_tsv(sites, col_names = FALSE, file="meta/LCT_fixedSNPs_AF_perBasin_July12.tsv")
+```
