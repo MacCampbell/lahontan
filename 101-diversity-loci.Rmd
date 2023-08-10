@@ -51,12 +51,16 @@ bamlist
 ```
 
 ```{r}
-m2<-meta %>% left_join(bamlist)
+m2<-meta %>% left_join(bamlist) %>% mutate(NewPath=paste0("bams",SampleID,".sort.flt.bam"))
+m2 %>% group_by(Species_code, Group, Creek) %>% summarize(Count=n())
 write_csv(m2, file="meta/lct-norm-with-path.csv")
 ```
 
 note mismatch with byday samples at line 295, editing those 
 
 Ok, so we don't know the coverage of these samples.    
+
+`(base) maccamp@farm:~/lahontan/bams$ ls | grep sort.flt.bam | perl -pe 's/.sort.flt.bam//g' > sample-list.txt`
+
 
 

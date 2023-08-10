@@ -1,468 +1,468 @@
-SampleID,Group,watershedCode,Location,Metacode,Species,Species_code,SiteID,Creek,Sampling_Year,Starting_Material,Path
-Y170001CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170001CAR_RA.sort.flt.bam
-Y170002CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170002CAR_RA.sort.flt.bam
-Y170003CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170003CAR_RA.sort.flt.bam
-Y170004CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170004CAR_RA.sort.flt.bam
-Y170005CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170005CAR_RA.sort.flt.bam
-Y170006CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170006CAR_RA.sort.flt.bam
-Y170007CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170007CAR_RA.sort.flt.bam
-Y170008CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170008CAR_RA.sort.flt.bam
-Y170009CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170009CAR_RA.sort.flt.bam
-Y170010CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170010CAR_RA.sort.flt.bam
-Y170011CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170011CAR_RA.sort.flt.bam
-Y170012CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170012CAR_RA.sort.flt.bam
-Y170013CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170013CAR_RA.sort.flt.bam
-Y170014CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170014CAR_RA.sort.flt.bam
-Y170015CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170015CAR_RA.sort.flt.bam
-Y170016CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170016CAR_RA.sort.flt.bam
-Y170017CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170017CAR_RA.sort.flt.bam
-Y170018CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170018CAR_RA.sort.flt.bam
-Y170019CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170019CAR_RA.sort.flt.bam
-Y170020CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170020CAR_RA.sort.flt.bam
-Y170021CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170021CAR_RA.sort.flt.bam
-Y170022CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170022CAR_RA.sort.flt.bam
-Y170023CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170023CAR_RA.sort.flt.bam
-Y170024CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170024CAR_RA.sort.flt.bam
-Y170025CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170025CAR_RA.sort.flt.bam
-Y170026CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170026CAR_RA.sort.flt.bam
-Y170027CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170027CAR_RA.sort.flt.bam
-Y170028CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170028CAR_RA.sort.flt.bam
-Y170029CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170029CAR_RA.sort.flt.bam
-Y170030CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170030CAR_RA.sort.flt.bam
-Y170031CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170031CAR_RA.sort.flt.bam
-Y170032CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170032CAR_RA.sort.flt.bam
-Y170033CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170033CAR_RA.sort.flt.bam
-Y170034CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170034CAR_RA.sort.flt.bam
-Y170035CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170035CAR_RA.sort.flt.bam
-Y170036CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170036CAR_RA.sort.flt.bam
-Y170037CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170037CAR_RA.sort.flt.bam
-Y170038CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170038CAR_RA.sort.flt.bam
-Y170039CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170039CAR_RA.sort.flt.bam
-Y170040CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170040CAR_RA.sort.flt.bam
-Y170041CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170041CAR_RA.sort.flt.bam
-Y170042CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170042CAR_RA.sort.flt.bam
-Y170043CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170043CAR_RA.sort.flt.bam
-Y170044CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170044CAR_RA.sort.flt.bam
-Y170045CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170045CAR_RA.sort.flt.bam
-Y170046CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170046CAR_RA.sort.flt.bam
-Y170047CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170047CAR_RA.sort.flt.bam
-Y170048CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170048CAR_RA.sort.flt.bam
-Y170049CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170049CAR_RA.sort.flt.bam
-Y170050CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170050CAR_RA.sort.flt.bam
-Y170051CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170051CAR_RA.sort.flt.bam
-Y170052CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170052CAR_RA.sort.flt.bam
-Y170053CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170053CAR_RA.sort.flt.bam
-Y170054CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170054CAR_RA.sort.flt.bam
-Y170055CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170055CAR_RA.sort.flt.bam
-Y170056CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170056CAR_RA.sort.flt.bam
-Y170057CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170057CAR_RA.sort.flt.bam
-Y170058CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170058CAR_RA.sort.flt.bam
-Y170059CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170059CAR_RA.sort.flt.bam
-Y170060CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170060CAR_RA.sort.flt.bam
-Y170061CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170061CAR_RA.sort.flt.bam
-Y170062CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170062CAR_RA.sort.flt.bam
-Y170063CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170063CAR_RA.sort.flt.bam
-Y170064CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170064CAR_RA.sort.flt.bam
-Y170065CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170065CAR_RA.sort.flt.bam
-Y170066CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170066CAR_RA.sort.flt.bam
-Y170067CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170067CAR_RA.sort.flt.bam
-Y170068CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170068CAR_RA.sort.flt.bam
-Y170069CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170069CAR_RA.sort.flt.bam
-Y170070CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170070CAR_RA.sort.flt.bam
-Y170071CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170071CAR_RA.sort.flt.bam
-Y170072CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170072CAR_RA.sort.flt.bam
-Y170073CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170073CAR_RA.sort.flt.bam
-Y170074CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170074CAR_RA.sort.flt.bam
-Y170075CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170075CAR_RA.sort.flt.bam
-Y170076CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170076CAR_RA.sort.flt.bam
-Y170077CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170077CAR_RA.sort.flt.bam
-Y170078CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170078CAR_RA.sort.flt.bam
-Y170079CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170079CAR_RA.sort.flt.bam
-Y170080CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170080CAR_RA.sort.flt.bam
-Y170081CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170081CAR_RA.sort.flt.bam
-Y170082CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170082CAR_RA.sort.flt.bam
-Y170083CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170083CAR_RA.sort.flt.bam
-Y170084CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170084CAR_RA.sort.flt.bam
-Y170085CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170085CAR_RA.sort.flt.bam
-Y170086CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170086CAR_RA.sort.flt.bam
-Y170087CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170087CAR_RA.sort.flt.bam
-Y170088CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170088CAR_RA.sort.flt.bam
-Y170089CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170089CAR_RA.sort.flt.bam
-Y170090CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170090CAR_RA.sort.flt.bam
-Y170091CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170091CAR_RA.sort.flt.bam
-Y170092CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170092CAR_RA.sort.flt.bam
-Y170093CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170093CAR_RA.sort.flt.bam
-Y170094CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170094CAR_RA.sort.flt.bam
-Y170095CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170095CAR_RA.sort.flt.bam
-Y170096CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170096CAR_RA.sort.flt.bam
-Y170097CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170097CAR_RA.sort.flt.bam
-Y170098CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170098CAR_RA.sort.flt.bam
-Y170099CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170099CAR_RA.sort.flt.bam
-Y170100CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170100CAR_RA.sort.flt.bam
-Y170101CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170101CAR_RA.sort.flt.bam
-Y170102CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170102CAR_RA.sort.flt.bam
-Y160001CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160001CAR_RA.sort.flt.bam
-Y160002CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160002CAR_RA.sort.flt.bam
-Y160003CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160003CAR_RA.sort.flt.bam
-Y160004CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160004CAR_RA.sort.flt.bam
-Y160005CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160005CAR_RA.sort.flt.bam
-Y160006CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160006CAR_RA.sort.flt.bam
-Y160007CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160007CAR_RA.sort.flt.bam
-Y160008CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160008CAR_RA.sort.flt.bam
-Y160009CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160009CAR_RA.sort.flt.bam
-Y160010CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160010CAR_RA.sort.flt.bam
-Y160011CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160011CAR_RA.sort.flt.bam
-Y160012CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160012CAR_RA.sort.flt.bam
-Y160013CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160013CAR_RA.sort.flt.bam
-Y160014CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160014CAR_RA.sort.flt.bam
-Y160015CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160015CAR_RA.sort.flt.bam
-Y160016CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160016CAR_RA.sort.flt.bam
-Y160017CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160017CAR_RA.sort.flt.bam
-Y160018CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160018CAR_RA.sort.flt.bam
-Y160019CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160019CAR_RA.sort.flt.bam
-Y160020CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160020CAR_RA.sort.flt.bam
-Y160021CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160021CAR_RA.sort.flt.bam
-Y160022CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160022CAR_RA.sort.flt.bam
-Y160023CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160023CAR_RA.sort.flt.bam
-Y160024CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160024CAR_RA.sort.flt.bam
-Y160025CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160025CAR_RA.sort.flt.bam
-Y160026CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160026CAR_RA.sort.flt.bam
-Y160029CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160029CAR_RA.sort.flt.bam
-Y160030CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160030CAR_RA.sort.flt.bam
-Y160031CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160031CAR_RA.sort.flt.bam
-Y160032CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160032CAR_RA.sort.flt.bam
-Y160033CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160033CAR_RA.sort.flt.bam
-Y160034CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160034CAR_RA.sort.flt.bam
-Y160035CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160035CAR_RA.sort.flt.bam
-Y160036CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160036CAR_RA.sort.flt.bam
-Y160037CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160037CAR_RA.sort.flt.bam
-Y160038CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160038CAR_RA.sort.flt.bam
-Y160039CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160039CAR_RA.sort.flt.bam
-Y160040CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160040CAR_RA.sort.flt.bam
-Y160041CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160041CAR_RA.sort.flt.bam
-Y160042CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160042CAR_RA.sort.flt.bam
-Y160043CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160043CAR_RA.sort.flt.bam
-Y160044CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160044CAR_RA.sort.flt.bam
-Y160045CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160045CAR_RA.sort.flt.bam
-Y160047CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160047CAR_RA.sort.flt.bam
-Y160048CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160048CAR_RA.sort.flt.bam
-Y160049CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160049CAR_RA.sort.flt.bam
-Y160050CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160050CAR_RA.sort.flt.bam
-Y160051CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160051CAR_RA.sort.flt.bam
-Y160052CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160052CAR_RA.sort.flt.bam
-Y160053CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160053CAR_RA.sort.flt.bam
-Y160054CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160054CAR_RA.sort.flt.bam
-Y160055CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160055CAR_RA.sort.flt.bam
-Y160056CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160056CAR_RA.sort.flt.bam
-Y160057CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160057CAR_RA.sort.flt.bam
-Y160058CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160058CAR_RA.sort.flt.bam
-Y160059CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160059CAR_RA.sort.flt.bam
-Y160060CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160060CAR_RA.sort.flt.bam
-Y160061CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160061CAR_RA.sort.flt.bam
-Y160062CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160062CAR_RA.sort.flt.bam
-Y160063CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160063CAR_RA.sort.flt.bam
-Y160064CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160064CAR_RA.sort.flt.bam
-Y160065CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160065CAR_RA.sort.flt.bam
-Y160066CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160066CAR_RA.sort.flt.bam
-Y160067CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160067CAR_RA.sort.flt.bam
-Y160068CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160068CAR_RA.sort.flt.bam
-Y160069CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160069CAR_RA.sort.flt.bam
-Y160070CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160070CAR_RA.sort.flt.bam
-Y160071CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160071CAR_RA.sort.flt.bam
-Y160072CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160072CAR_RA.sort.flt.bam
-Y160073CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160073CAR_RA.sort.flt.bam
-Y160074CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160074CAR_RA.sort.flt.bam
-Y160076CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160076CAR_RA.sort.flt.bam
-Y160077CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160077CAR_RA.sort.flt.bam
-Y160078CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160078CAR_RA.sort.flt.bam
-Y160079CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160079CAR_RA.sort.flt.bam
-Y160080CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160080CAR_RA.sort.flt.bam
-Y160081CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160081CAR_RA.sort.flt.bam
-Y160082CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160082CAR_RA.sort.flt.bam
-Y160001IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160001IPL_RA.sort.flt.bam
-Y160003IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160003IPL_RA.sort.flt.bam
-Y160004IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160004IPL_RA.sort.flt.bam
-Y160006IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160006IPL_RA.sort.flt.bam
-Y160007IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160007IPL_RA.sort.flt.bam
-Y160009IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160009IPL_RA.sort.flt.bam
-Y160013IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160013IPL_RA.sort.flt.bam
-Y160016IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160016IPL_RA.sort.flt.bam
-Y160017IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160017IPL_RA.sort.flt.bam
-Y160018IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160018IPL_RA.sort.flt.bam
-Y160020IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160020IPL_RA.sort.flt.bam
-Y160023IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160023IPL_RA.sort.flt.bam
-Y160024IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160024IPL_RA.sort.flt.bam
-Y160025IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160025IPL_RA.sort.flt.bam
-Y160028IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160028IPL_RA.sort.flt.bam
-Y160030IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160030IPL_RA.sort.flt.bam
-Y160031IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160031IPL_RA.sort.flt.bam
-Y160032IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160032IPL_RA.sort.flt.bam
-Y160033IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160033IPL_RA.sort.flt.bam
-Y160034IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160034IPL_RA.sort.flt.bam
-Y160035IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160035IPL_RA.sort.flt.bam
-Y160038IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160038IPL_RA.sort.flt.bam
-Y160039IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160039IPL_RA.sort.flt.bam
-Y160041IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160041IPL_RA.sort.flt.bam
-Y160056YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160056YUB_RA.sort.flt.bam
-Y160057YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160057YUB_RA.sort.flt.bam
-Y160060YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160060YUB_RA.sort.flt.bam
-Y160061YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160061YUB_RA.sort.flt.bam
-Y160062YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160062YUB_RA.sort.flt.bam
-Y160063YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160063YUB_RA.sort.flt.bam
-Y160064YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160064YUB_RA.sort.flt.bam
-Y160065YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160065YUB_RA.sort.flt.bam
-Y160066YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160066YUB_RA.sort.flt.bam
-Y160067YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160067YUB_RA.sort.flt.bam
-Y160068YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160068YUB_RA.sort.flt.bam
-Y160069YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160069YUB_RA.sort.flt.bam
-Y160070YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160070YUB_RA.sort.flt.bam
-Y160071YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160071YUB_RA.sort.flt.bam
-Y160072YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160072YUB_RA.sort.flt.bam
-Y160073YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160073YUB_RA.sort.flt.bam
-Y160074YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160074YUB_RA.sort.flt.bam
-Y160075YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160075YUB_RA.sort.flt.bam
-Y160076YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160076YUB_RA.sort.flt.bam
-Y160077YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160077YUB_RA.sort.flt.bam
-Y160078YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160078YUB_RA.sort.flt.bam
-Y160079YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160079YUB_RA.sort.flt.bam
-Y160080YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160080YUB_RA.sort.flt.bam
-Y160081YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160081YUB_RA.sort.flt.bam
-Y160082YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160082YUB_RA.sort.flt.bam
-Y160083YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160083YUB_RA.sort.flt.bam
-Y160084YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160084YUB_RA.sort.flt.bam
-Y160085YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160085YUB_RA.sort.flt.bam
-Y160086YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160086YUB_RA.sort.flt.bam
-Y160087YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160087YUB_RA.sort.flt.bam
-Y160088YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160088YUB_RA.sort.flt.bam
-Y160089YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160089YUB_RA.sort.flt.bam
-Y160090YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160090YUB_RA.sort.flt.bam
-Y160001TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160001TKR_RA.sort.flt.bam
-Y160002TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160002TKR_RA.sort.flt.bam
-Y160003TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160003TKR_RA.sort.flt.bam
-Y160004TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160004TKR_RA.sort.flt.bam
-Y160005TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160005TKR_RA.sort.flt.bam
-Y160006TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160006TKR_RA.sort.flt.bam
-Y160007TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160007TKR_RA.sort.flt.bam
-Y160008TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160008TKR_RA.sort.flt.bam
-Y160009TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160009TKR_RA.sort.flt.bam
-Y160010TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160010TKR_RA.sort.flt.bam
-Y160011TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160011TKR_RA.sort.flt.bam
-Y160012TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160012TKR_RA.sort.flt.bam
-Y160013TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160013TKR_RA.sort.flt.bam
-Y160014TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160014TKR_RA.sort.flt.bam
-Y160015TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160015TKR_RA.sort.flt.bam
-Y160016TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160016TKR_RA.sort.flt.bam
-Y160017TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160017TKR_RA.sort.flt.bam
-Y160018TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160018TKR_RA.sort.flt.bam
-Y160019TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160019TKR_RA.sort.flt.bam
-Y160020TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160020TKR_RA.sort.flt.bam
-Y160021TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160021TKR_RA.sort.flt.bam
-Y160022TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160022TKR_RA.sort.flt.bam
-Y160023TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160023TKR_RA.sort.flt.bam
-Y160024TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160024TKR_RA.sort.flt.bam
-Y160025TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160025TKR_RA.sort.flt.bam
-Y160026TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160026TKR_RA.sort.flt.bam
-Y160027TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160027TKR_RA.sort.flt.bam
-Y160028TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160028TKR_RA.sort.flt.bam
-Y160029TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160029TKR_RA.sort.flt.bam
-Y160030TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160030TKR_RA.sort.flt.bam
-Y160031TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160031TKR_RA.sort.flt.bam
-Y160032TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160032TKR_RA.sort.flt.bam
-Y160033TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160033TKR_RA.sort.flt.bam
-Y160034TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160034TKR_RA.sort.flt.bam
-Y160035TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160035TKR_RA.sort.flt.bam
-Y160036TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160036TKR_RA.sort.flt.bam
-Y160037TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160037TKR_RA.sort.flt.bam
-Y170001TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170001TKR_RA.sort.flt.bam
-Y170002TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170002TKR_RA.sort.flt.bam
-Y170003TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170003TKR_RA.sort.flt.bam
-Y170004TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170004TKR_RA.sort.flt.bam
-Y170005TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170005TKR_RA.sort.flt.bam
-Y170006TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170006TKR_RA.sort.flt.bam
-Y170007TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170007TKR_RA.sort.flt.bam
-Y170008TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170008TKR_RA.sort.flt.bam
-Y170009TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170009TKR_RA.sort.flt.bam
-Y170010TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170010TKR_RA.sort.flt.bam
-Y170011TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170011TKR_RA.sort.flt.bam
-Y170012TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170012TKR_RA.sort.flt.bam
-Y170013TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170013TKR_RA.sort.flt.bam
-Y170014TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170014TKR_RA.sort.flt.bam
-Y170015TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170015TKR_RA.sort.flt.bam
-Y170016TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170016TKR_RA.sort.flt.bam
-Y170017TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170017TKR_RA.sort.flt.bam
-Y170018TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170018TKR_RA.sort.flt.bam
-Y170019TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170019TKR_RA.sort.flt.bam
-Y170020TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170020TKR_RA.sort.flt.bam
-Y200091WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200091WKR_RA.sort.flt.bam
-Y200092WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200092WKR_RA.sort.flt.bam
-Y200093WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200093WKR_RA.sort.flt.bam
-Y200094WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200094WKR_RA.sort.flt.bam
-Y200095WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200095WKR_RA.sort.flt.bam
-Y200096WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200096WKR_RA.sort.flt.bam
-Y200097WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200097WKR_RA.sort.flt.bam
-Y200098WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200098WKR_RA.sort.flt.bam
-Y200099WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200099WKR_RA.sort.flt.bam
-Y200100WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200100WKR_RA.sort.flt.bam
-Y200101WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200101WKR_RA.sort.flt.bam
-Y200102WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200102WKR_RA.sort.flt.bam
-Y200103WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200103WKR_RA.sort.flt.bam
-Y200104WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200104WKR_RA.sort.flt.bam
-Y200105WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200105WKR_RA.sort.flt.bam
-Y200106WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200106WKR_RA.sort.flt.bam
-Y200107WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200107WKR_RA.sort.flt.bam
-Y200108WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200108WKR_RA.sort.flt.bam
-Y200109WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200109WKR_RA.sort.flt.bam
-Y200110WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200110WKR_RA.sort.flt.bam
-Y200111WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200111WKR_RA.sort.flt.bam
-Y200112WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200112WKR_RA.sort.flt.bam
-Y200113WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200113WKR_RA.sort.flt.bam
-Y200114WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200114WKR_RA.sort.flt.bam
-Y200115WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200115WKR_RA.sort.flt.bam
-Y200116WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200116WKR_RA.sort.flt.bam
-Y200117WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200117WKR_RA.sort.flt.bam
-Y200118WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200118WKR_RA.sort.flt.bam
-Y200119WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200119WKR_RA.sort.flt.bam
-Y200120WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200120WKR_RA.sort.flt.bam
-Y200061WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200061WKR_RA.sort.flt.bam
-Y200062WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200062WKR_RA.sort.flt.bam
-Y200063WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200063WKR_RA.sort.flt.bam
-Y200064WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200064WKR_RA.sort.flt.bam
-Y200065WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200065WKR_RA.sort.flt.bam
-Y200066WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200066WKR_RA.sort.flt.bam
-Y200067WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200067WKR_RA.sort.flt.bam
-Y200068WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200068WKR_RA.sort.flt.bam
-Y200069WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200069WKR_RA.sort.flt.bam
-Y200070WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200070WKR_RA.sort.flt.bam
-Y200071WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200071WKR_RA.sort.flt.bam
-Y200072WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200072WKR_RA.sort.flt.bam
-Y200073WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200073WKR_RA.sort.flt.bam
-Y200074WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200074WKR_RA.sort.flt.bam
-Y200075WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200075WKR_RA.sort.flt.bam
-Y200076WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200076WKR_RA.sort.flt.bam
-Y200077WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200077WKR_RA.sort.flt.bam
-Y200078WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200078WKR_RA.sort.flt.bam
-Y200079WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200079WKR_RA.sort.flt.bam
-Y200080WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200080WKR_RA.sort.flt.bam
-Y200081WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200081WKR_RA.sort.flt.bam
-Y200082WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200082WKR_RA.sort.flt.bam
-Y200083WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200083WKR_RA.sort.flt.bam
-Y200084WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200084WKR_RA.sort.flt.bam
-Y200085WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200085WKR_RA.sort.flt.bam
-Y200087WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200087WKR_RA.sort.flt.bam
-Y200088WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200088WKR_RA.sort.flt.bam
-Y200089WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200089WKR_RA.sort.flt.bam
-Y200090WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200090WKR_RA.sort.flt.bam
-Y210001WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210001WKR_RA.sort.flt.bam
-Y210002WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210002WKR_RA.sort.flt.bam
-Y210003WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210003WKR_RA.sort.flt.bam
-Y210004WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210004WKR_RA.sort.flt.bam
-Y210005WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210005WKR_RA.sort.flt.bam
-Y210006WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210006WKR_RA.sort.flt.bam
-Y210007WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210007WKR_RA.sort.flt.bam
-Y210008WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210008WKR_RA.sort.flt.bam
-Y210009WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210009WKR_RA.sort.flt.bam
-Y210010WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210010WKR_RA.sort.flt.bam
-Y210011WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210011WKR_RA.sort.flt.bam
-Y210012WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210012WKR_RA.sort.flt.bam
-Y210013WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210013WKR_RA.sort.flt.bam
-Y210014WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210014WKR_RA.sort.flt.bam
-Y210015WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210015WKR_RA.sort.flt.bam
-Y210016WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210016WKR_RA.sort.flt.bam
-Y210017WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210017WKR_RA.sort.flt.bam
-Y210018WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210018WKR_RA.sort.flt.bam
-Y210019WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210019WKR_RA.sort.flt.bam
-Y210020WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210020WKR_RA.sort.flt.bam
-Y210021WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210021WKR_RA.sort.flt.bam
-Y210022WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210022WKR_RA.sort.flt.bam
-Y210023WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210023WKR_RA.sort.flt.bam
-Y210024WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210024WKR_RA.sort.flt.bam
-Y210025WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210025WKR_RA.sort.flt.bam
-Y210026WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210026WKR_RA.sort.flt.bam
-Y210027WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210027WKR_RA.sort.flt.bam
-Y210028WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210028WKR_RA.sort.flt.bam
-Y210029WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210029WKR_RA.sort.flt.bam
-Y210030WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210030WKR_RA.sort.flt.bam
-Y210031WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210031WKR_RA.sort.flt.bam
-Y200121WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200121WKR_RA.sort.flt.bam
-Y200122WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200122WKR_RA.sort.flt.bam
-Y200123WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200123WKR_RA.sort.flt.bam
-Y200124WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200124WKR_RA.sort.flt.bam
-Y200125WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200125WKR_RA.sort.flt.bam
-Y200126WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200126WKR_RA.sort.flt.bam
-Y200127WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200127WKR_RA.sort.flt.bam
-Y200128WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200128WKR_RA.sort.flt.bam
-Y200129WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200129WKR_RA.sort.flt.bam
-Y200130WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200130WKR_RA.sort.flt.bam
-Y200131WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200131WKR_RA.sort.flt.bam
-Y200132WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200132WKR_RA.sort.flt.bam
-Y200133WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200133WKR_RA.sort.flt.bam
-Y200134WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200134WKR_RA.sort.flt.bam
-Y200135WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200135WKR_RA.sort.flt.bam
-Y200136WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200136WKR_RA.sort.flt.bam
-Y200137WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200137WKR_RA.sort.flt.bam
-Y200139WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200139WKR_RA.sort.flt.bam
-Y200140WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200140WKR_RA.sort.flt.bam
-Y200141WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200141WKR_RA.sort.flt.bam
-Y200142WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200142WKR_RA.sort.flt.bam
-Y200143WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200143WKR_RA.sort.flt.bam
-Y200144WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200144WKR_RA.sort.flt.bam
-Y200145WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200145WKR_RA.sort.flt.bam
-Y200146WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200146WKR_RA.sort.flt.bam
-Y200001WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200001WKR_RA.sort.flt.bam
-Y200002WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200002WKR_RA.sort.flt.bam
-Y200003WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200003WKR_RA.sort.flt.bam
-Y200004WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200004WKR_RA.sort.flt.bam
-Y200005WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200005WKR_RA.sort.flt.bam
-Y200006WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200006WKR_RA.sort.flt.bam
-Y200007WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200007WKR_RA.sort.flt.bam
-Y200008WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200008WKR_RA.sort.flt.bam
-Y200009WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200009WKR_RA.sort.flt.bam
-Y200010WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200010WKR_RA.sort.flt.bam
-Y200011WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200011WKR_RA.sort.flt.bam
-Y200012WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200012WKR_RA.sort.flt.bam
-Y200013WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200013WKR_RA.sort.flt.bam
-Y200014WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200014WKR_RA.sort.flt.bam
-Y200015WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200015WKR_RA.sort.flt.bam
-Y200016WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200016WKR_RA.sort.flt.bam
-Y200017WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200017WKR_RA.sort.flt.bam
-Y200018WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200018WKR_RA.sort.flt.bam
-Y200019WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200019WKR_RA.sort.flt.bam
-Y200020WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200020WKR_RA.sort.flt.bam
-Y200021WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200021WKR_RA.sort.flt.bam
-Y200022WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200022WKR_RA.sort.flt.bam
-Y200023WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200023WKR_RA.sort.flt.bam
-Y200024WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200024WKR_RA.sort.flt.bam
-Y200026WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200026WKR_RA.sort.flt.bam
-Y200028WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200028WKR_RA.sort.flt.bam
-Y200029WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200029WKR_RA.sort.flt.bam
-Y200030WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200030WKR_RA.sort.flt.bam
-Y200031WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200031WKR_RA.sort.flt.bam
-Y200032WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200032WKR_RA.sort.flt.bam
-Y200033WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200033WKR_RA.sort.flt.bam
-Y200034WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200034WKR_RA.sort.flt.bam
-Y200035WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200035WKR_RA.sort.flt.bam
-Y200036WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200036WKR_RA.sort.flt.bam
-Y200037WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200037WKR_RA.sort.flt.bam
-Y200038WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200038WKR_RA.sort.flt.bam
-Y200039WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200039WKR_RA.sort.flt.bam
-Y200040WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200040WKR_RA.sort.flt.bam
-Y200041WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200041WKR_RA.sort.flt.bam
-Y200042WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200042WKR_RA.sort.flt.bam
-Y200043WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200043WKR_RA.sort.flt.bam
-Y200044WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200044WKR_RA.sort.flt.bam
-Y200045WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200045WKR_RA.sort.flt.bam
-Y200046WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200046WKR_RA.sort.flt.bam
-Y200047WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200047WKR_RA.sort.flt.bam
-Y200048WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200048WKR_RA.sort.flt.bam
-Y200049WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200049WKR_RA.sort.flt.bam
-Y200050WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200050WKR_RA.sort.flt.bam
-Y200051WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200051WKR_RA.sort.flt.bam
-Y200052WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200052WKR_RA.sort.flt.bam
-Y200053WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200053WKR_RA.sort.flt.bam
-Y200054WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200054WKR_RA.sort.flt.bam
-Y200055WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200055WKR_RA.sort.flt.bam
-Y200056WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200056WKR_RA.sort.flt.bam
-Y200057WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200057WKR_RA.sort.flt.bam
-Y200058WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200058WKR_RA.sort.flt.bam
-Y200059WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200059WKR_RA.sort.flt.bam
-Y200060WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200060WKR_RA.sort.flt.bam
+SampleID,Group,watershedCode,Location,Metacode,Species,Species_code,SiteID,Creek,Sampling_Year,Starting_Material,Path,NewPath
+Y170001CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170001CAR_RA.sort.flt.bam,bamsY170001CAR_RA.sort.flt.bam
+Y170002CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170002CAR_RA.sort.flt.bam,bamsY170002CAR_RA.sort.flt.bam
+Y170003CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170003CAR_RA.sort.flt.bam,bamsY170003CAR_RA.sort.flt.bam
+Y170004CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170004CAR_RA.sort.flt.bam,bamsY170004CAR_RA.sort.flt.bam
+Y170005CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170005CAR_RA.sort.flt.bam,bamsY170005CAR_RA.sort.flt.bam
+Y170006CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170006CAR_RA.sort.flt.bam,bamsY170006CAR_RA.sort.flt.bam
+Y170007CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170007CAR_RA.sort.flt.bam,bamsY170007CAR_RA.sort.flt.bam
+Y170008CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170008CAR_RA.sort.flt.bam,bamsY170008CAR_RA.sort.flt.bam
+Y170009CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170009CAR_RA.sort.flt.bam,bamsY170009CAR_RA.sort.flt.bam
+Y170010CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170010CAR_RA.sort.flt.bam,bamsY170010CAR_RA.sort.flt.bam
+Y170011CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170011CAR_RA.sort.flt.bam,bamsY170011CAR_RA.sort.flt.bam
+Y170012CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170012CAR_RA.sort.flt.bam,bamsY170012CAR_RA.sort.flt.bam
+Y170013CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170013CAR_RA.sort.flt.bam,bamsY170013CAR_RA.sort.flt.bam
+Y170014CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170014CAR_RA.sort.flt.bam,bamsY170014CAR_RA.sort.flt.bam
+Y170015CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170015CAR_RA.sort.flt.bam,bamsY170015CAR_RA.sort.flt.bam
+Y170016CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170016CAR_RA.sort.flt.bam,bamsY170016CAR_RA.sort.flt.bam
+Y170017CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170017CAR_RA.sort.flt.bam,bamsY170017CAR_RA.sort.flt.bam
+Y170018CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170018CAR_RA.sort.flt.bam,bamsY170018CAR_RA.sort.flt.bam
+Y170019CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170019CAR_RA.sort.flt.bam,bamsY170019CAR_RA.sort.flt.bam
+Y170020CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170020CAR_RA.sort.flt.bam,bamsY170020CAR_RA.sort.flt.bam
+Y170021CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170021CAR_RA.sort.flt.bam,bamsY170021CAR_RA.sort.flt.bam
+Y170022CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170022CAR_RA.sort.flt.bam,bamsY170022CAR_RA.sort.flt.bam
+Y170023CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170023CAR_RA.sort.flt.bam,bamsY170023CAR_RA.sort.flt.bam
+Y170024CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170024CAR_RA.sort.flt.bam,bamsY170024CAR_RA.sort.flt.bam
+Y170025CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170025CAR_RA.sort.flt.bam,bamsY170025CAR_RA.sort.flt.bam
+Y170026CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170026CAR_RA.sort.flt.bam,bamsY170026CAR_RA.sort.flt.bam
+Y170027CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170027CAR_RA.sort.flt.bam,bamsY170027CAR_RA.sort.flt.bam
+Y170028CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170028CAR_RA.sort.flt.bam,bamsY170028CAR_RA.sort.flt.bam
+Y170029CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170029CAR_RA.sort.flt.bam,bamsY170029CAR_RA.sort.flt.bam
+Y170030CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170030CAR_RA.sort.flt.bam,bamsY170030CAR_RA.sort.flt.bam
+Y170031CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170031CAR_RA.sort.flt.bam,bamsY170031CAR_RA.sort.flt.bam
+Y170032CAR_RA,CARSON,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170032CAR_RA.sort.flt.bam,bamsY170032CAR_RA.sort.flt.bam
+Y170033CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170033CAR_RA.sort.flt.bam,bamsY170033CAR_RA.sort.flt.bam
+Y170034CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170034CAR_RA.sort.flt.bam,bamsY170034CAR_RA.sort.flt.bam
+Y170035CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170035CAR_RA.sort.flt.bam,bamsY170035CAR_RA.sort.flt.bam
+Y170036CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170036CAR_RA.sort.flt.bam,bamsY170036CAR_RA.sort.flt.bam
+Y170037CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170037CAR_RA.sort.flt.bam,bamsY170037CAR_RA.sort.flt.bam
+Y170038CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170038CAR_RA.sort.flt.bam,bamsY170038CAR_RA.sort.flt.bam
+Y170039CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170039CAR_RA.sort.flt.bam,bamsY170039CAR_RA.sort.flt.bam
+Y170040CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170040CAR_RA.sort.flt.bam,bamsY170040CAR_RA.sort.flt.bam
+Y170041CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170041CAR_RA.sort.flt.bam,bamsY170041CAR_RA.sort.flt.bam
+Y170042CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170042CAR_RA.sort.flt.bam,bamsY170042CAR_RA.sort.flt.bam
+Y170043CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170043CAR_RA.sort.flt.bam,bamsY170043CAR_RA.sort.flt.bam
+Y170044CAR_RA,CARSON,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170044CAR_RA.sort.flt.bam,bamsY170044CAR_RA.sort.flt.bam
+Y170045CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170045CAR_RA.sort.flt.bam,bamsY170045CAR_RA.sort.flt.bam
+Y170046CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170046CAR_RA.sort.flt.bam,bamsY170046CAR_RA.sort.flt.bam
+Y170047CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170047CAR_RA.sort.flt.bam,bamsY170047CAR_RA.sort.flt.bam
+Y170048CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170048CAR_RA.sort.flt.bam,bamsY170048CAR_RA.sort.flt.bam
+Y170049CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170049CAR_RA.sort.flt.bam,bamsY170049CAR_RA.sort.flt.bam
+Y170050CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170050CAR_RA.sort.flt.bam,bamsY170050CAR_RA.sort.flt.bam
+Y170051CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170051CAR_RA.sort.flt.bam,bamsY170051CAR_RA.sort.flt.bam
+Y170052CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170052CAR_RA.sort.flt.bam,bamsY170052CAR_RA.sort.flt.bam
+Y170053CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170053CAR_RA.sort.flt.bam,bamsY170053CAR_RA.sort.flt.bam
+Y170054CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170054CAR_RA.sort.flt.bam,bamsY170054CAR_RA.sort.flt.bam
+Y170055CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170055CAR_RA.sort.flt.bam,bamsY170055CAR_RA.sort.flt.bam
+Y170056CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170056CAR_RA.sort.flt.bam,bamsY170056CAR_RA.sort.flt.bam
+Y170057CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170057CAR_RA.sort.flt.bam,bamsY170057CAR_RA.sort.flt.bam
+Y170058CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170058CAR_RA.sort.flt.bam,bamsY170058CAR_RA.sort.flt.bam
+Y170059CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170059CAR_RA.sort.flt.bam,bamsY170059CAR_RA.sort.flt.bam
+Y170060CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170060CAR_RA.sort.flt.bam,bamsY170060CAR_RA.sort.flt.bam
+Y170061CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170061CAR_RA.sort.flt.bam,bamsY170061CAR_RA.sort.flt.bam
+Y170062CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170062CAR_RA.sort.flt.bam,bamsY170062CAR_RA.sort.flt.bam
+Y170063CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170063CAR_RA.sort.flt.bam,bamsY170063CAR_RA.sort.flt.bam
+Y170064CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170064CAR_RA.sort.flt.bam,bamsY170064CAR_RA.sort.flt.bam
+Y170065CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170065CAR_RA.sort.flt.bam,bamsY170065CAR_RA.sort.flt.bam
+Y170066CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170066CAR_RA.sort.flt.bam,bamsY170066CAR_RA.sort.flt.bam
+Y170067CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170067CAR_RA.sort.flt.bam,bamsY170067CAR_RA.sort.flt.bam
+Y170068CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170068CAR_RA.sort.flt.bam,bamsY170068CAR_RA.sort.flt.bam
+Y170069CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170069CAR_RA.sort.flt.bam,bamsY170069CAR_RA.sort.flt.bam
+Y170070CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170070CAR_RA.sort.flt.bam,bamsY170070CAR_RA.sort.flt.bam
+Y170071CAR_RA,CARSON,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170071CAR_RA.sort.flt.bam,bamsY170071CAR_RA.sort.flt.bam
+Y170072CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170072CAR_RA.sort.flt.bam,bamsY170072CAR_RA.sort.flt.bam
+Y170073CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170073CAR_RA.sort.flt.bam,bamsY170073CAR_RA.sort.flt.bam
+Y170074CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170074CAR_RA.sort.flt.bam,bamsY170074CAR_RA.sort.flt.bam
+Y170075CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170075CAR_RA.sort.flt.bam,bamsY170075CAR_RA.sort.flt.bam
+Y170076CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170076CAR_RA.sort.flt.bam,bamsY170076CAR_RA.sort.flt.bam
+Y170077CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170077CAR_RA.sort.flt.bam,bamsY170077CAR_RA.sort.flt.bam
+Y170078CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170078CAR_RA.sort.flt.bam,bamsY170078CAR_RA.sort.flt.bam
+Y170079CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y170079CAR_RA.sort.flt.bam,bamsY170079CAR_RA.sort.flt.bam
+Y170080CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170080CAR_RA.sort.flt.bam,bamsY170080CAR_RA.sort.flt.bam
+Y170081CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170081CAR_RA.sort.flt.bam,bamsY170081CAR_RA.sort.flt.bam
+Y170082CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170082CAR_RA.sort.flt.bam,bamsY170082CAR_RA.sort.flt.bam
+Y170083CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170083CAR_RA.sort.flt.bam,bamsY170083CAR_RA.sort.flt.bam
+Y170084CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170084CAR_RA.sort.flt.bam,bamsY170084CAR_RA.sort.flt.bam
+Y170085CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170085CAR_RA.sort.flt.bam,bamsY170085CAR_RA.sort.flt.bam
+Y170086CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170086CAR_RA.sort.flt.bam,bamsY170086CAR_RA.sort.flt.bam
+Y170087CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170087CAR_RA.sort.flt.bam,bamsY170087CAR_RA.sort.flt.bam
+Y170088CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170088CAR_RA.sort.flt.bam,bamsY170088CAR_RA.sort.flt.bam
+Y170089CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170089CAR_RA.sort.flt.bam,bamsY170089CAR_RA.sort.flt.bam
+Y170090CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170090CAR_RA.sort.flt.bam,bamsY170090CAR_RA.sort.flt.bam
+Y170091CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170091CAR_RA.sort.flt.bam,bamsY170091CAR_RA.sort.flt.bam
+Y170092CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170092CAR_RA.sort.flt.bam,bamsY170092CAR_RA.sort.flt.bam
+Y170093CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170093CAR_RA.sort.flt.bam,bamsY170093CAR_RA.sort.flt.bam
+Y170094CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170094CAR_RA.sort.flt.bam,bamsY170094CAR_RA.sort.flt.bam
+Y170095CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170095CAR_RA.sort.flt.bam,bamsY170095CAR_RA.sort.flt.bam
+Y170096CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170096CAR_RA.sort.flt.bam,bamsY170096CAR_RA.sort.flt.bam
+Y170097CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170097CAR_RA.sort.flt.bam,bamsY170097CAR_RA.sort.flt.bam
+Y170098CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170098CAR_RA.sort.flt.bam,bamsY170098CAR_RA.sort.flt.bam
+Y170099CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170099CAR_RA.sort.flt.bam,bamsY170099CAR_RA.sort.flt.bam
+Y170100CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170100CAR_RA.sort.flt.bam,bamsY170100CAR_RA.sort.flt.bam
+Y170101CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170101CAR_RA.sort.flt.bam,bamsY170101CAR_RA.sort.flt.bam
+Y170102CAR_RA,CARSON,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y170102CAR_RA.sort.flt.bam,bamsY170102CAR_RA.sort.flt.bam
+Y160001CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160001CAR_RA.sort.flt.bam,bamsY160001CAR_RA.sort.flt.bam
+Y160002CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160002CAR_RA.sort.flt.bam,bamsY160002CAR_RA.sort.flt.bam
+Y160003CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160003CAR_RA.sort.flt.bam,bamsY160003CAR_RA.sort.flt.bam
+Y160004CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160004CAR_RA.sort.flt.bam,bamsY160004CAR_RA.sort.flt.bam
+Y160005CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160005CAR_RA.sort.flt.bam,bamsY160005CAR_RA.sort.flt.bam
+Y160006CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160006CAR_RA.sort.flt.bam,bamsY160006CAR_RA.sort.flt.bam
+Y160007CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160007CAR_RA.sort.flt.bam,bamsY160007CAR_RA.sort.flt.bam
+Y160008CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160008CAR_RA.sort.flt.bam,bamsY160008CAR_RA.sort.flt.bam
+Y160009CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160009CAR_RA.sort.flt.bam,bamsY160009CAR_RA.sort.flt.bam
+Y160010CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160010CAR_RA.sort.flt.bam,bamsY160010CAR_RA.sort.flt.bam
+Y160011CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160011CAR_RA.sort.flt.bam,bamsY160011CAR_RA.sort.flt.bam
+Y160012CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160012CAR_RA.sort.flt.bam,bamsY160012CAR_RA.sort.flt.bam
+Y160013CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160013CAR_RA.sort.flt.bam,bamsY160013CAR_RA.sort.flt.bam
+Y160014CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160014CAR_RA.sort.flt.bam,bamsY160014CAR_RA.sort.flt.bam
+Y160015CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160015CAR_RA.sort.flt.bam,bamsY160015CAR_RA.sort.flt.bam
+Y160016CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160016CAR_RA.sort.flt.bam,bamsY160016CAR_RA.sort.flt.bam
+Y160017CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160017CAR_RA.sort.flt.bam,bamsY160017CAR_RA.sort.flt.bam
+Y160018CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160018CAR_RA.sort.flt.bam,bamsY160018CAR_RA.sort.flt.bam
+Y160019CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160019CAR_RA.sort.flt.bam,bamsY160019CAR_RA.sort.flt.bam
+Y160020CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160020CAR_RA.sort.flt.bam,bamsY160020CAR_RA.sort.flt.bam
+Y160021CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160021CAR_RA.sort.flt.bam,bamsY160021CAR_RA.sort.flt.bam
+Y160022CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160022CAR_RA.sort.flt.bam,bamsY160022CAR_RA.sort.flt.bam
+Y160023CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160023CAR_RA.sort.flt.bam,bamsY160023CAR_RA.sort.flt.bam
+Y160024CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160024CAR_RA.sort.flt.bam,bamsY160024CAR_RA.sort.flt.bam
+Y160025CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160025CAR_RA.sort.flt.bam,bamsY160025CAR_RA.sort.flt.bam
+Y160026CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160026CAR_RA.sort.flt.bam,bamsY160026CAR_RA.sort.flt.bam
+Y160029CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160029CAR_RA.sort.flt.bam,bamsY160029CAR_RA.sort.flt.bam
+Y160030CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160030CAR_RA.sort.flt.bam,bamsY160030CAR_RA.sort.flt.bam
+Y160031CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160031CAR_RA.sort.flt.bam,bamsY160031CAR_RA.sort.flt.bam
+Y160032CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160032CAR_RA.sort.flt.bam,bamsY160032CAR_RA.sort.flt.bam
+Y160033CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160033CAR_RA.sort.flt.bam,bamsY160033CAR_RA.sort.flt.bam
+Y160034CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160034CAR_RA.sort.flt.bam,bamsY160034CAR_RA.sort.flt.bam
+Y160035CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160035CAR_RA.sort.flt.bam,bamsY160035CAR_RA.sort.flt.bam
+Y160036CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160036CAR_RA.sort.flt.bam,bamsY160036CAR_RA.sort.flt.bam
+Y160037CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160037CAR_RA.sort.flt.bam,bamsY160037CAR_RA.sort.flt.bam
+Y160038CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160038CAR_RA.sort.flt.bam,bamsY160038CAR_RA.sort.flt.bam
+Y160039CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160039CAR_RA.sort.flt.bam,bamsY160039CAR_RA.sort.flt.bam
+Y160040CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160040CAR_RA.sort.flt.bam,bamsY160040CAR_RA.sort.flt.bam
+Y160041CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160041CAR_RA.sort.flt.bam,bamsY160041CAR_RA.sort.flt.bam
+Y160042CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160042CAR_RA.sort.flt.bam,bamsY160042CAR_RA.sort.flt.bam
+Y160043CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160043CAR_RA.sort.flt.bam,bamsY160043CAR_RA.sort.flt.bam
+Y160044CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160044CAR_RA.sort.flt.bam,bamsY160044CAR_RA.sort.flt.bam
+Y160045CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160045CAR_RA.sort.flt.bam,bamsY160045CAR_RA.sort.flt.bam
+Y160047CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160047CAR_RA.sort.flt.bam,bamsY160047CAR_RA.sort.flt.bam
+Y160048CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160048CAR_RA.sort.flt.bam,bamsY160048CAR_RA.sort.flt.bam
+Y160049CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160049CAR_RA.sort.flt.bam,bamsY160049CAR_RA.sort.flt.bam
+Y160050CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160050CAR_RA.sort.flt.bam,bamsY160050CAR_RA.sort.flt.bam
+Y160051CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160051CAR_RA.sort.flt.bam,bamsY160051CAR_RA.sort.flt.bam
+Y160052CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160052CAR_RA.sort.flt.bam,bamsY160052CAR_RA.sort.flt.bam
+Y160053CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160053CAR_RA.sort.flt.bam,bamsY160053CAR_RA.sort.flt.bam
+Y160054CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160054CAR_RA.sort.flt.bam,bamsY160054CAR_RA.sort.flt.bam
+Y160055CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160055CAR_RA.sort.flt.bam,bamsY160055CAR_RA.sort.flt.bam
+Y160056CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160056CAR_RA.sort.flt.bam,bamsY160056CAR_RA.sort.flt.bam
+Y160057CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160057CAR_RA.sort.flt.bam,bamsY160057CAR_RA.sort.flt.bam
+Y160058CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160058CAR_RA.sort.flt.bam,bamsY160058CAR_RA.sort.flt.bam
+Y160059CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160059CAR_RA.sort.flt.bam,bamsY160059CAR_RA.sort.flt.bam
+Y160060CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160060CAR_RA.sort.flt.bam,bamsY160060CAR_RA.sort.flt.bam
+Y160061CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160061CAR_RA.sort.flt.bam,bamsY160061CAR_RA.sort.flt.bam
+Y160062CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160062CAR_RA.sort.flt.bam,bamsY160062CAR_RA.sort.flt.bam
+Y160063CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160063CAR_RA.sort.flt.bam,bamsY160063CAR_RA.sort.flt.bam
+Y160064CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160064CAR_RA.sort.flt.bam,bamsY160064CAR_RA.sort.flt.bam
+Y160065CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160065CAR_RA.sort.flt.bam,bamsY160065CAR_RA.sort.flt.bam
+Y160066CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160066CAR_RA.sort.flt.bam,bamsY160066CAR_RA.sort.flt.bam
+Y160067CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW01_libPla2/Y160067CAR_RA.sort.flt.bam,bamsY160067CAR_RA.sort.flt.bam
+Y160068CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160068CAR_RA.sort.flt.bam,bamsY160068CAR_RA.sort.flt.bam
+Y160069CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160069CAR_RA.sort.flt.bam,bamsY160069CAR_RA.sort.flt.bam
+Y160070CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160070CAR_RA.sort.flt.bam,bamsY160070CAR_RA.sort.flt.bam
+Y160071CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160071CAR_RA.sort.flt.bam,bamsY160071CAR_RA.sort.flt.bam
+Y160072CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160072CAR_RA.sort.flt.bam,bamsY160072CAR_RA.sort.flt.bam
+Y160073CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160073CAR_RA.sort.flt.bam,bamsY160073CAR_RA.sort.flt.bam
+Y160074CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160074CAR_RA.sort.flt.bam,bamsY160074CAR_RA.sort.flt.bam
+Y160076CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160076CAR_RA.sort.flt.bam,bamsY160076CAR_RA.sort.flt.bam
+Y160077CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160077CAR_RA.sort.flt.bam,bamsY160077CAR_RA.sort.flt.bam
+Y160078CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160078CAR_RA.sort.flt.bam,bamsY160078CAR_RA.sort.flt.bam
+Y160079CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160079CAR_RA.sort.flt.bam,bamsY160079CAR_RA.sort.flt.bam
+Y160080CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160080CAR_RA.sort.flt.bam,bamsY160080CAR_RA.sort.flt.bam
+Y160081CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160081CAR_RA.sort.flt.bam,bamsY160081CAR_RA.sort.flt.bam
+Y160082CAR_RA,HEENAN,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW02_libPla3/Y160082CAR_RA.sort.flt.bam,bamsY160082CAR_RA.sort.flt.bam
+Y160001IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160001IPL_RA.sort.flt.bam,bamsY160001IPL_RA.sort.flt.bam
+Y160003IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160003IPL_RA.sort.flt.bam,bamsY160003IPL_RA.sort.flt.bam
+Y160004IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160004IPL_RA.sort.flt.bam,bamsY160004IPL_RA.sort.flt.bam
+Y160006IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160006IPL_RA.sort.flt.bam,bamsY160006IPL_RA.sort.flt.bam
+Y160007IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160007IPL_RA.sort.flt.bam,bamsY160007IPL_RA.sort.flt.bam
+Y160009IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160009IPL_RA.sort.flt.bam,bamsY160009IPL_RA.sort.flt.bam
+Y160013IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160013IPL_RA.sort.flt.bam,bamsY160013IPL_RA.sort.flt.bam
+Y160016IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160016IPL_RA.sort.flt.bam,bamsY160016IPL_RA.sort.flt.bam
+Y160017IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160017IPL_RA.sort.flt.bam,bamsY160017IPL_RA.sort.flt.bam
+Y160018IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160018IPL_RA.sort.flt.bam,bamsY160018IPL_RA.sort.flt.bam
+Y160020IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160020IPL_RA.sort.flt.bam,bamsY160020IPL_RA.sort.flt.bam
+Y160023IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160023IPL_RA.sort.flt.bam,bamsY160023IPL_RA.sort.flt.bam
+Y160024IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160024IPL_RA.sort.flt.bam,bamsY160024IPL_RA.sort.flt.bam
+Y160025IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160025IPL_RA.sort.flt.bam,bamsY160025IPL_RA.sort.flt.bam
+Y160028IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160028IPL_RA.sort.flt.bam,bamsY160028IPL_RA.sort.flt.bam
+Y160030IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160030IPL_RA.sort.flt.bam,bamsY160030IPL_RA.sort.flt.bam
+Y160031IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160031IPL_RA.sort.flt.bam,bamsY160031IPL_RA.sort.flt.bam
+Y160032IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160032IPL_RA.sort.flt.bam,bamsY160032IPL_RA.sort.flt.bam
+Y160033IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160033IPL_RA.sort.flt.bam,bamsY160033IPL_RA.sort.flt.bam
+Y160034IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160034IPL_RA.sort.flt.bam,bamsY160034IPL_RA.sort.flt.bam
+Y160035IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160035IPL_RA.sort.flt.bam,bamsY160035IPL_RA.sort.flt.bam
+Y160038IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160038IPL_RA.sort.flt.bam,bamsY160038IPL_RA.sort.flt.bam
+Y160039IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160039IPL_RA.sort.flt.bam,bamsY160039IPL_RA.sort.flt.bam
+Y160041IPL_RA,IPL,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW03_libPla4/Y160041IPL_RA.sort.flt.bam,bamsY160041IPL_RA.sort.flt.bam
+Y160056YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160056YUB_RA.sort.flt.bam,bamsY160056YUB_RA.sort.flt.bam
+Y160057YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160057YUB_RA.sort.flt.bam,bamsY160057YUB_RA.sort.flt.bam
+Y160060YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160060YUB_RA.sort.flt.bam,bamsY160060YUB_RA.sort.flt.bam
+Y160061YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160061YUB_RA.sort.flt.bam,bamsY160061YUB_RA.sort.flt.bam
+Y160062YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160062YUB_RA.sort.flt.bam,bamsY160062YUB_RA.sort.flt.bam
+Y160063YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160063YUB_RA.sort.flt.bam,bamsY160063YUB_RA.sort.flt.bam
+Y160064YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160064YUB_RA.sort.flt.bam,bamsY160064YUB_RA.sort.flt.bam
+Y160065YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160065YUB_RA.sort.flt.bam,bamsY160065YUB_RA.sort.flt.bam
+Y160066YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160066YUB_RA.sort.flt.bam,bamsY160066YUB_RA.sort.flt.bam
+Y160067YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160067YUB_RA.sort.flt.bam,bamsY160067YUB_RA.sort.flt.bam
+Y160068YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160068YUB_RA.sort.flt.bam,bamsY160068YUB_RA.sort.flt.bam
+Y160069YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160069YUB_RA.sort.flt.bam,bamsY160069YUB_RA.sort.flt.bam
+Y160070YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160070YUB_RA.sort.flt.bam,bamsY160070YUB_RA.sort.flt.bam
+Y160071YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160071YUB_RA.sort.flt.bam,bamsY160071YUB_RA.sort.flt.bam
+Y160072YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160072YUB_RA.sort.flt.bam,bamsY160072YUB_RA.sort.flt.bam
+Y160073YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160073YUB_RA.sort.flt.bam,bamsY160073YUB_RA.sort.flt.bam
+Y160074YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160074YUB_RA.sort.flt.bam,bamsY160074YUB_RA.sort.flt.bam
+Y160075YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160075YUB_RA.sort.flt.bam,bamsY160075YUB_RA.sort.flt.bam
+Y160076YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160076YUB_RA.sort.flt.bam,bamsY160076YUB_RA.sort.flt.bam
+Y160077YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160077YUB_RA.sort.flt.bam,bamsY160077YUB_RA.sort.flt.bam
+Y160078YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160078YUB_RA.sort.flt.bam,bamsY160078YUB_RA.sort.flt.bam
+Y160079YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160079YUB_RA.sort.flt.bam,bamsY160079YUB_RA.sort.flt.bam
+Y160080YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160080YUB_RA.sort.flt.bam,bamsY160080YUB_RA.sort.flt.bam
+Y160081YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160081YUB_RA.sort.flt.bam,bamsY160081YUB_RA.sort.flt.bam
+Y160082YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160082YUB_RA.sort.flt.bam,bamsY160082YUB_RA.sort.flt.bam
+Y160083YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160083YUB_RA.sort.flt.bam,bamsY160083YUB_RA.sort.flt.bam
+Y160084YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160084YUB_RA.sort.flt.bam,bamsY160084YUB_RA.sort.flt.bam
+Y160085YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160085YUB_RA.sort.flt.bam,bamsY160085YUB_RA.sort.flt.bam
+Y160086YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160086YUB_RA.sort.flt.bam,bamsY160086YUB_RA.sort.flt.bam
+Y160087YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160087YUB_RA.sort.flt.bam,bamsY160087YUB_RA.sort.flt.bam
+Y160088YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160088YUB_RA.sort.flt.bam,bamsY160088YUB_RA.sort.flt.bam
+Y160089YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160089YUB_RA.sort.flt.bam,bamsY160089YUB_RA.sort.flt.bam
+Y160090YUB_RA,YUB,YUB,MC,TKR_Macklin,Lahontan Cutthroat Trout,LCT,TRUCKEE,Macklin Creek,2016,Extracted DNA,/home/amilzz/amilzz/data/alignCDFW06_libPla6/Y160090YUB_RA.sort.flt.bam,bamsY160090YUB_RA.sort.flt.bam
+Y160001TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160001TKR_RA.sort.flt.bam,bamsY160001TKR_RA.sort.flt.bam
+Y160002TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160002TKR_RA.sort.flt.bam,bamsY160002TKR_RA.sort.flt.bam
+Y160003TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160003TKR_RA.sort.flt.bam,bamsY160003TKR_RA.sort.flt.bam
+Y160004TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160004TKR_RA.sort.flt.bam,bamsY160004TKR_RA.sort.flt.bam
+Y160005TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160005TKR_RA.sort.flt.bam,bamsY160005TKR_RA.sort.flt.bam
+Y160006TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160006TKR_RA.sort.flt.bam,bamsY160006TKR_RA.sort.flt.bam
+Y160007TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160007TKR_RA.sort.flt.bam,bamsY160007TKR_RA.sort.flt.bam
+Y160008TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160008TKR_RA.sort.flt.bam,bamsY160008TKR_RA.sort.flt.bam
+Y160009TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160009TKR_RA.sort.flt.bam,bamsY160009TKR_RA.sort.flt.bam
+Y160010TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160010TKR_RA.sort.flt.bam,bamsY160010TKR_RA.sort.flt.bam
+Y160011TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160011TKR_RA.sort.flt.bam,bamsY160011TKR_RA.sort.flt.bam
+Y160012TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160012TKR_RA.sort.flt.bam,bamsY160012TKR_RA.sort.flt.bam
+Y160013TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160013TKR_RA.sort.flt.bam,bamsY160013TKR_RA.sort.flt.bam
+Y160014TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160014TKR_RA.sort.flt.bam,bamsY160014TKR_RA.sort.flt.bam
+Y160015TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160015TKR_RA.sort.flt.bam,bamsY160015TKR_RA.sort.flt.bam
+Y160016TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160016TKR_RA.sort.flt.bam,bamsY160016TKR_RA.sort.flt.bam
+Y160017TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160017TKR_RA.sort.flt.bam,bamsY160017TKR_RA.sort.flt.bam
+Y160018TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160018TKR_RA.sort.flt.bam,bamsY160018TKR_RA.sort.flt.bam
+Y160019TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160019TKR_RA.sort.flt.bam,bamsY160019TKR_RA.sort.flt.bam
+Y160020TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160020TKR_RA.sort.flt.bam,bamsY160020TKR_RA.sort.flt.bam
+Y160021TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160021TKR_RA.sort.flt.bam,bamsY160021TKR_RA.sort.flt.bam
+Y160022TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160022TKR_RA.sort.flt.bam,bamsY160022TKR_RA.sort.flt.bam
+Y160023TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160023TKR_RA.sort.flt.bam,bamsY160023TKR_RA.sort.flt.bam
+Y160024TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160024TKR_RA.sort.flt.bam,bamsY160024TKR_RA.sort.flt.bam
+Y160025TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160025TKR_RA.sort.flt.bam,bamsY160025TKR_RA.sort.flt.bam
+Y160026TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160026TKR_RA.sort.flt.bam,bamsY160026TKR_RA.sort.flt.bam
+Y160027TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160027TKR_RA.sort.flt.bam,bamsY160027TKR_RA.sort.flt.bam
+Y160028TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160028TKR_RA.sort.flt.bam,bamsY160028TKR_RA.sort.flt.bam
+Y160029TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160029TKR_RA.sort.flt.bam,bamsY160029TKR_RA.sort.flt.bam
+Y160030TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160030TKR_RA.sort.flt.bam,bamsY160030TKR_RA.sort.flt.bam
+Y160031TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160031TKR_RA.sort.flt.bam,bamsY160031TKR_RA.sort.flt.bam
+Y160032TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160032TKR_RA.sort.flt.bam,bamsY160032TKR_RA.sort.flt.bam
+Y160033TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160033TKR_RA.sort.flt.bam,bamsY160033TKR_RA.sort.flt.bam
+Y160034TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160034TKR_RA.sort.flt.bam,bamsY160034TKR_RA.sort.flt.bam
+Y160035TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160035TKR_RA.sort.flt.bam,bamsY160035TKR_RA.sort.flt.bam
+Y160036TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160036TKR_RA.sort.flt.bam,bamsY160036TKR_RA.sort.flt.bam
+Y160037TKR_RA,TRUCK,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y160037TKR_RA.sort.flt.bam,bamsY160037TKR_RA.sort.flt.bam
+Y170001TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170001TKR_RA.sort.flt.bam,bamsY170001TKR_RA.sort.flt.bam
+Y170002TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170002TKR_RA.sort.flt.bam,bamsY170002TKR_RA.sort.flt.bam
+Y170003TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170003TKR_RA.sort.flt.bam,bamsY170003TKR_RA.sort.flt.bam
+Y170004TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170004TKR_RA.sort.flt.bam,bamsY170004TKR_RA.sort.flt.bam
+Y170005TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170005TKR_RA.sort.flt.bam,bamsY170005TKR_RA.sort.flt.bam
+Y170006TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170006TKR_RA.sort.flt.bam,bamsY170006TKR_RA.sort.flt.bam
+Y170007TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170007TKR_RA.sort.flt.bam,bamsY170007TKR_RA.sort.flt.bam
+Y170008TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170008TKR_RA.sort.flt.bam,bamsY170008TKR_RA.sort.flt.bam
+Y170009TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170009TKR_RA.sort.flt.bam,bamsY170009TKR_RA.sort.flt.bam
+Y170010TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170010TKR_RA.sort.flt.bam,bamsY170010TKR_RA.sort.flt.bam
+Y170011TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170011TKR_RA.sort.flt.bam,bamsY170011TKR_RA.sort.flt.bam
+Y170012TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170012TKR_RA.sort.flt.bam,bamsY170012TKR_RA.sort.flt.bam
+Y170013TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170013TKR_RA.sort.flt.bam,bamsY170013TKR_RA.sort.flt.bam
+Y170014TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170014TKR_RA.sort.flt.bam,bamsY170014TKR_RA.sort.flt.bam
+Y170015TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170015TKR_RA.sort.flt.bam,bamsY170015TKR_RA.sort.flt.bam
+Y170016TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170016TKR_RA.sort.flt.bam,bamsY170016TKR_RA.sort.flt.bam
+Y170017TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170017TKR_RA.sort.flt.bam,bamsY170017TKR_RA.sort.flt.bam
+Y170018TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170018TKR_RA.sort.flt.bam,bamsY170018TKR_RA.sort.flt.bam
+Y170019TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170019TKR_RA.sort.flt.bam,bamsY170019TKR_RA.sort.flt.bam
+Y170020TKR_RA,TRUCK,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,/home/amilzz/amilzz/data/alignCDFW04_libPla5/Y170020TKR_RA.sort.flt.bam,bamsY170020TKR_RA.sort.flt.bam
+Y200091WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200091WKR_RA.sort.flt.bam,bamsY200091WKR_RA.sort.flt.bam
+Y200092WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200092WKR_RA.sort.flt.bam,bamsY200092WKR_RA.sort.flt.bam
+Y200093WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200093WKR_RA.sort.flt.bam,bamsY200093WKR_RA.sort.flt.bam
+Y200094WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200094WKR_RA.sort.flt.bam,bamsY200094WKR_RA.sort.flt.bam
+Y200095WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200095WKR_RA.sort.flt.bam,bamsY200095WKR_RA.sort.flt.bam
+Y200096WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200096WKR_RA.sort.flt.bam,bamsY200096WKR_RA.sort.flt.bam
+Y200097WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200097WKR_RA.sort.flt.bam,bamsY200097WKR_RA.sort.flt.bam
+Y200098WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200098WKR_RA.sort.flt.bam,bamsY200098WKR_RA.sort.flt.bam
+Y200099WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200099WKR_RA.sort.flt.bam,bamsY200099WKR_RA.sort.flt.bam
+Y200100WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200100WKR_RA.sort.flt.bam,bamsY200100WKR_RA.sort.flt.bam
+Y200101WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200101WKR_RA.sort.flt.bam,bamsY200101WKR_RA.sort.flt.bam
+Y200102WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200102WKR_RA.sort.flt.bam,bamsY200102WKR_RA.sort.flt.bam
+Y200103WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200103WKR_RA.sort.flt.bam,bamsY200103WKR_RA.sort.flt.bam
+Y200104WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200104WKR_RA.sort.flt.bam,bamsY200104WKR_RA.sort.flt.bam
+Y200105WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200105WKR_RA.sort.flt.bam,bamsY200105WKR_RA.sort.flt.bam
+Y200106WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200106WKR_RA.sort.flt.bam,bamsY200106WKR_RA.sort.flt.bam
+Y200107WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200107WKR_RA.sort.flt.bam,bamsY200107WKR_RA.sort.flt.bam
+Y200108WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200108WKR_RA.sort.flt.bam,bamsY200108WKR_RA.sort.flt.bam
+Y200109WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200109WKR_RA.sort.flt.bam,bamsY200109WKR_RA.sort.flt.bam
+Y200110WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200110WKR_RA.sort.flt.bam,bamsY200110WKR_RA.sort.flt.bam
+Y200111WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200111WKR_RA.sort.flt.bam,bamsY200111WKR_RA.sort.flt.bam
+Y200112WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,By Day Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200112WKR_RA.sort.flt.bam,bamsY200112WKR_RA.sort.flt.bam
+Y200113WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200113WKR_RA.sort.flt.bam,bamsY200113WKR_RA.sort.flt.bam
+Y200114WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200114WKR_RA.sort.flt.bam,bamsY200114WKR_RA.sort.flt.bam
+Y200115WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200115WKR_RA.sort.flt.bam,bamsY200115WKR_RA.sort.flt.bam
+Y200116WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200116WKR_RA.sort.flt.bam,bamsY200116WKR_RA.sort.flt.bam
+Y200117WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200117WKR_RA.sort.flt.bam,bamsY200117WKR_RA.sort.flt.bam
+Y200118WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200118WKR_RA.sort.flt.bam,bamsY200118WKR_RA.sort.flt.bam
+Y200119WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200119WKR_RA.sort.flt.bam,bamsY200119WKR_RA.sort.flt.bam
+Y200120WKR_RA,WALK,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200120WKR_RA.sort.flt.bam,bamsY200120WKR_RA.sort.flt.bam
+Y200061WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200061WKR_RA.sort.flt.bam,bamsY200061WKR_RA.sort.flt.bam
+Y200062WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200062WKR_RA.sort.flt.bam,bamsY200062WKR_RA.sort.flt.bam
+Y200063WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200063WKR_RA.sort.flt.bam,bamsY200063WKR_RA.sort.flt.bam
+Y200064WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200064WKR_RA.sort.flt.bam,bamsY200064WKR_RA.sort.flt.bam
+Y200065WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200065WKR_RA.sort.flt.bam,bamsY200065WKR_RA.sort.flt.bam
+Y200066WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200066WKR_RA.sort.flt.bam,bamsY200066WKR_RA.sort.flt.bam
+Y200067WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200067WKR_RA.sort.flt.bam,bamsY200067WKR_RA.sort.flt.bam
+Y200068WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200068WKR_RA.sort.flt.bam,bamsY200068WKR_RA.sort.flt.bam
+Y200069WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200069WKR_RA.sort.flt.bam,bamsY200069WKR_RA.sort.flt.bam
+Y200070WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200070WKR_RA.sort.flt.bam,bamsY200070WKR_RA.sort.flt.bam
+Y200071WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200071WKR_RA.sort.flt.bam,bamsY200071WKR_RA.sort.flt.bam
+Y200072WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200072WKR_RA.sort.flt.bam,bamsY200072WKR_RA.sort.flt.bam
+Y200073WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200073WKR_RA.sort.flt.bam,bamsY200073WKR_RA.sort.flt.bam
+Y200074WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200074WKR_RA.sort.flt.bam,bamsY200074WKR_RA.sort.flt.bam
+Y200075WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200075WKR_RA.sort.flt.bam,bamsY200075WKR_RA.sort.flt.bam
+Y200076WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200076WKR_RA.sort.flt.bam,bamsY200076WKR_RA.sort.flt.bam
+Y200077WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200077WKR_RA.sort.flt.bam,bamsY200077WKR_RA.sort.flt.bam
+Y200078WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200078WKR_RA.sort.flt.bam,bamsY200078WKR_RA.sort.flt.bam
+Y200079WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200079WKR_RA.sort.flt.bam,bamsY200079WKR_RA.sort.flt.bam
+Y200080WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200080WKR_RA.sort.flt.bam,bamsY200080WKR_RA.sort.flt.bam
+Y200081WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200081WKR_RA.sort.flt.bam,bamsY200081WKR_RA.sort.flt.bam
+Y200082WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200082WKR_RA.sort.flt.bam,bamsY200082WKR_RA.sort.flt.bam
+Y200083WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200083WKR_RA.sort.flt.bam,bamsY200083WKR_RA.sort.flt.bam
+Y200084WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200084WKR_RA.sort.flt.bam,bamsY200084WKR_RA.sort.flt.bam
+Y200085WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200085WKR_RA.sort.flt.bam,bamsY200085WKR_RA.sort.flt.bam
+Y200087WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200087WKR_RA.sort.flt.bam,bamsY200087WKR_RA.sort.flt.bam
+Y200088WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200088WKR_RA.sort.flt.bam,bamsY200088WKR_RA.sort.flt.bam
+Y200089WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200089WKR_RA.sort.flt.bam,bamsY200089WKR_RA.sort.flt.bam
+Y200090WKR_RA,WALK,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200090WKR_RA.sort.flt.bam,bamsY200090WKR_RA.sort.flt.bam
+Y210001WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210001WKR_RA.sort.flt.bam,bamsY210001WKR_RA.sort.flt.bam
+Y210002WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210002WKR_RA.sort.flt.bam,bamsY210002WKR_RA.sort.flt.bam
+Y210003WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210003WKR_RA.sort.flt.bam,bamsY210003WKR_RA.sort.flt.bam
+Y210004WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210004WKR_RA.sort.flt.bam,bamsY210004WKR_RA.sort.flt.bam
+Y210005WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210005WKR_RA.sort.flt.bam,bamsY210005WKR_RA.sort.flt.bam
+Y210006WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210006WKR_RA.sort.flt.bam,bamsY210006WKR_RA.sort.flt.bam
+Y210007WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210007WKR_RA.sort.flt.bam,bamsY210007WKR_RA.sort.flt.bam
+Y210008WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210008WKR_RA.sort.flt.bam,bamsY210008WKR_RA.sort.flt.bam
+Y210009WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210009WKR_RA.sort.flt.bam,bamsY210009WKR_RA.sort.flt.bam
+Y210010WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210010WKR_RA.sort.flt.bam,bamsY210010WKR_RA.sort.flt.bam
+Y210011WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210011WKR_RA.sort.flt.bam,bamsY210011WKR_RA.sort.flt.bam
+Y210012WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210012WKR_RA.sort.flt.bam,bamsY210012WKR_RA.sort.flt.bam
+Y210013WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210013WKR_RA.sort.flt.bam,bamsY210013WKR_RA.sort.flt.bam
+Y210014WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210014WKR_RA.sort.flt.bam,bamsY210014WKR_RA.sort.flt.bam
+Y210015WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210015WKR_RA.sort.flt.bam,bamsY210015WKR_RA.sort.flt.bam
+Y210016WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210016WKR_RA.sort.flt.bam,bamsY210016WKR_RA.sort.flt.bam
+Y210017WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210017WKR_RA.sort.flt.bam,bamsY210017WKR_RA.sort.flt.bam
+Y210018WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210018WKR_RA.sort.flt.bam,bamsY210018WKR_RA.sort.flt.bam
+Y210019WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210019WKR_RA.sort.flt.bam,bamsY210019WKR_RA.sort.flt.bam
+Y210020WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210020WKR_RA.sort.flt.bam,bamsY210020WKR_RA.sort.flt.bam
+Y210021WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210021WKR_RA.sort.flt.bam,bamsY210021WKR_RA.sort.flt.bam
+Y210022WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210022WKR_RA.sort.flt.bam,bamsY210022WKR_RA.sort.flt.bam
+Y210023WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210023WKR_RA.sort.flt.bam,bamsY210023WKR_RA.sort.flt.bam
+Y210024WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210024WKR_RA.sort.flt.bam,bamsY210024WKR_RA.sort.flt.bam
+Y210025WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210025WKR_RA.sort.flt.bam,bamsY210025WKR_RA.sort.flt.bam
+Y210026WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210026WKR_RA.sort.flt.bam,bamsY210026WKR_RA.sort.flt.bam
+Y210027WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210027WKR_RA.sort.flt.bam,bamsY210027WKR_RA.sort.flt.bam
+Y210028WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210028WKR_RA.sort.flt.bam,bamsY210028WKR_RA.sort.flt.bam
+Y210029WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210029WKR_RA.sort.flt.bam,bamsY210029WKR_RA.sort.flt.bam
+Y210030WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210030WKR_RA.sort.flt.bam,bamsY210030WKR_RA.sort.flt.bam
+Y210031WKR_RA,WALK,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y210031WKR_RA.sort.flt.bam,bamsY210031WKR_RA.sort.flt.bam
+Y200121WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200121WKR_RA.sort.flt.bam,bamsY200121WKR_RA.sort.flt.bam
+Y200122WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200122WKR_RA.sort.flt.bam,bamsY200122WKR_RA.sort.flt.bam
+Y200123WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200123WKR_RA.sort.flt.bam,bamsY200123WKR_RA.sort.flt.bam
+Y200124WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200124WKR_RA.sort.flt.bam,bamsY200124WKR_RA.sort.flt.bam
+Y200125WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200125WKR_RA.sort.flt.bam,bamsY200125WKR_RA.sort.flt.bam
+Y200126WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200126WKR_RA.sort.flt.bam,bamsY200126WKR_RA.sort.flt.bam
+Y200127WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200127WKR_RA.sort.flt.bam,bamsY200127WKR_RA.sort.flt.bam
+Y200128WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200128WKR_RA.sort.flt.bam,bamsY200128WKR_RA.sort.flt.bam
+Y200129WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200129WKR_RA.sort.flt.bam,bamsY200129WKR_RA.sort.flt.bam
+Y200130WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200130WKR_RA.sort.flt.bam,bamsY200130WKR_RA.sort.flt.bam
+Y200131WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200131WKR_RA.sort.flt.bam,bamsY200131WKR_RA.sort.flt.bam
+Y200132WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200132WKR_RA.sort.flt.bam,bamsY200132WKR_RA.sort.flt.bam
+Y200133WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200133WKR_RA.sort.flt.bam,bamsY200133WKR_RA.sort.flt.bam
+Y200134WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200134WKR_RA.sort.flt.bam,bamsY200134WKR_RA.sort.flt.bam
+Y200135WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200135WKR_RA.sort.flt.bam,bamsY200135WKR_RA.sort.flt.bam
+Y200136WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200136WKR_RA.sort.flt.bam,bamsY200136WKR_RA.sort.flt.bam
+Y200137WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200137WKR_RA.sort.flt.bam,bamsY200137WKR_RA.sort.flt.bam
+Y200139WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200139WKR_RA.sort.flt.bam,bamsY200139WKR_RA.sort.flt.bam
+Y200140WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200140WKR_RA.sort.flt.bam,bamsY200140WKR_RA.sort.flt.bam
+Y200141WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200141WKR_RA.sort.flt.bam,bamsY200141WKR_RA.sort.flt.bam
+Y200142WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200142WKR_RA.sort.flt.bam,bamsY200142WKR_RA.sort.flt.bam
+Y200143WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200143WKR_RA.sort.flt.bam,bamsY200143WKR_RA.sort.flt.bam
+Y200144WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200144WKR_RA.sort.flt.bam,bamsY200144WKR_RA.sort.flt.bam
+Y200145WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200145WKR_RA.sort.flt.bam,bamsY200145WKR_RA.sort.flt.bam
+Y200146WKR_RA,WALK,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalkOnr17/Y200146WKR_RA.sort.flt.bam,bamsY200146WKR_RA.sort.flt.bam
+Y200001WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200001WKR_RA.sort.flt.bam,bamsY200001WKR_RA.sort.flt.bam
+Y200002WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200002WKR_RA.sort.flt.bam,bamsY200002WKR_RA.sort.flt.bam
+Y200003WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200003WKR_RA.sort.flt.bam,bamsY200003WKR_RA.sort.flt.bam
+Y200004WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200004WKR_RA.sort.flt.bam,bamsY200004WKR_RA.sort.flt.bam
+Y200005WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200005WKR_RA.sort.flt.bam,bamsY200005WKR_RA.sort.flt.bam
+Y200006WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200006WKR_RA.sort.flt.bam,bamsY200006WKR_RA.sort.flt.bam
+Y200007WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200007WKR_RA.sort.flt.bam,bamsY200007WKR_RA.sort.flt.bam
+Y200008WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200008WKR_RA.sort.flt.bam,bamsY200008WKR_RA.sort.flt.bam
+Y200009WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200009WKR_RA.sort.flt.bam,bamsY200009WKR_RA.sort.flt.bam
+Y200010WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200010WKR_RA.sort.flt.bam,bamsY200010WKR_RA.sort.flt.bam
+Y200011WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200011WKR_RA.sort.flt.bam,bamsY200011WKR_RA.sort.flt.bam
+Y200012WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200012WKR_RA.sort.flt.bam,bamsY200012WKR_RA.sort.flt.bam
+Y200013WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200013WKR_RA.sort.flt.bam,bamsY200013WKR_RA.sort.flt.bam
+Y200014WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200014WKR_RA.sort.flt.bam,bamsY200014WKR_RA.sort.flt.bam
+Y200015WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200015WKR_RA.sort.flt.bam,bamsY200015WKR_RA.sort.flt.bam
+Y200016WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200016WKR_RA.sort.flt.bam,bamsY200016WKR_RA.sort.flt.bam
+Y200017WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200017WKR_RA.sort.flt.bam,bamsY200017WKR_RA.sort.flt.bam
+Y200018WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200018WKR_RA.sort.flt.bam,bamsY200018WKR_RA.sort.flt.bam
+Y200019WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200019WKR_RA.sort.flt.bam,bamsY200019WKR_RA.sort.flt.bam
+Y200020WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200020WKR_RA.sort.flt.bam,bamsY200020WKR_RA.sort.flt.bam
+Y200021WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200021WKR_RA.sort.flt.bam,bamsY200021WKR_RA.sort.flt.bam
+Y200022WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200022WKR_RA.sort.flt.bam,bamsY200022WKR_RA.sort.flt.bam
+Y200023WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200023WKR_RA.sort.flt.bam,bamsY200023WKR_RA.sort.flt.bam
+Y200024WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200024WKR_RA.sort.flt.bam,bamsY200024WKR_RA.sort.flt.bam
+Y200026WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200026WKR_RA.sort.flt.bam,bamsY200026WKR_RA.sort.flt.bam
+Y200028WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200028WKR_RA.sort.flt.bam,bamsY200028WKR_RA.sort.flt.bam
+Y200029WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200029WKR_RA.sort.flt.bam,bamsY200029WKR_RA.sort.flt.bam
+Y200030WKR_RA,WALK,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200030WKR_RA.sort.flt.bam,bamsY200030WKR_RA.sort.flt.bam
+Y200031WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200031WKR_RA.sort.flt.bam,bamsY200031WKR_RA.sort.flt.bam
+Y200032WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200032WKR_RA.sort.flt.bam,bamsY200032WKR_RA.sort.flt.bam
+Y200033WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200033WKR_RA.sort.flt.bam,bamsY200033WKR_RA.sort.flt.bam
+Y200034WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200034WKR_RA.sort.flt.bam,bamsY200034WKR_RA.sort.flt.bam
+Y200035WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200035WKR_RA.sort.flt.bam,bamsY200035WKR_RA.sort.flt.bam
+Y200036WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200036WKR_RA.sort.flt.bam,bamsY200036WKR_RA.sort.flt.bam
+Y200037WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200037WKR_RA.sort.flt.bam,bamsY200037WKR_RA.sort.flt.bam
+Y200038WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200038WKR_RA.sort.flt.bam,bamsY200038WKR_RA.sort.flt.bam
+Y200039WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200039WKR_RA.sort.flt.bam,bamsY200039WKR_RA.sort.flt.bam
+Y200040WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200040WKR_RA.sort.flt.bam,bamsY200040WKR_RA.sort.flt.bam
+Y200041WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200041WKR_RA.sort.flt.bam,bamsY200041WKR_RA.sort.flt.bam
+Y200042WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200042WKR_RA.sort.flt.bam,bamsY200042WKR_RA.sort.flt.bam
+Y200043WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200043WKR_RA.sort.flt.bam,bamsY200043WKR_RA.sort.flt.bam
+Y200044WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200044WKR_RA.sort.flt.bam,bamsY200044WKR_RA.sort.flt.bam
+Y200045WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200045WKR_RA.sort.flt.bam,bamsY200045WKR_RA.sort.flt.bam
+Y200046WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200046WKR_RA.sort.flt.bam,bamsY200046WKR_RA.sort.flt.bam
+Y200047WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200047WKR_RA.sort.flt.bam,bamsY200047WKR_RA.sort.flt.bam
+Y200048WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200048WKR_RA.sort.flt.bam,bamsY200048WKR_RA.sort.flt.bam
+Y200049WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200049WKR_RA.sort.flt.bam,bamsY200049WKR_RA.sort.flt.bam
+Y200050WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200050WKR_RA.sort.flt.bam,bamsY200050WKR_RA.sort.flt.bam
+Y200051WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200051WKR_RA.sort.flt.bam,bamsY200051WKR_RA.sort.flt.bam
+Y200052WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200052WKR_RA.sort.flt.bam,bamsY200052WKR_RA.sort.flt.bam
+Y200053WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200053WKR_RA.sort.flt.bam,bamsY200053WKR_RA.sort.flt.bam
+Y200054WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200054WKR_RA.sort.flt.bam,bamsY200054WKR_RA.sort.flt.bam
+Y200055WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200055WKR_RA.sort.flt.bam,bamsY200055WKR_RA.sort.flt.bam
+Y200056WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200056WKR_RA.sort.flt.bam,bamsY200056WKR_RA.sort.flt.bam
+Y200057WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200057WKR_RA.sort.flt.bam,bamsY200057WKR_RA.sort.flt.bam
+Y200058WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200058WKR_RA.sort.flt.bam,bamsY200058WKR_RA.sort.flt.bam
+Y200059WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200059WKR_RA.sort.flt.bam,bamsY200059WKR_RA.sort.flt.bam
+Y200060WKR_RA,WALK,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,/home/amilzz/amilzz/data/alignWalker8_18/Y200060WKR_RA.sort.flt.bam,bamsY200060WKR_RA.sort.flt.bam
