@@ -56,11 +56,81 @@ m2 %>% group_by(Species_code, Group, Creek) %>% summarize(Count=n())
 write_csv(m2, file="meta/lct-norm-with-path.csv")
 ```
 
-note mismatch with byday samples at line 295, editing those 
+note mismatch with Byday samples at line 295, editing those 
 
 Ok, so we don't know the coverage of these samples.    
 
 `(base) maccamp@farm:~/lahontan/bams$ ls | grep sort.flt.bam | perl -pe 's/.sort.flt.bam//g' > sample-list.txt`
 
+`../101.1-do-counts.sh sample-list.txt`     
+
+Read in coverage.    
+
+```{r}
+files<-list.files(path="outputs/101", patter="*.stats", full.names = TRUE)
+reads<-lapply(files, read.csv, header=FALSE, col.names=c("SampleID","Aligned","Filtered","Coverage"))
+reads<-bind_rows(reads)
+```
+
+```{r}
+m2<-left_join(meta, reads)
+```
+
+```{r}
+ggplot(m2) +
+  geom_histogram(aes(x=Filtered, fill=Group)) +
+  scale_fill_viridis_d(option="turbo") +
+  theme_bw() +
+  ylab("Count") +
+  xlab("Filtered Read Number") +
+  theme(panel.grid=element_blank())
+
+min(m2$Filtered)
+mean(m2$Filtered)
+median(m2$Filtered)
+max(m2$Filtered)
+```
 
 
+
+## Get some things we want
+
+Walker, Carson, Truckee, Independence Lake, Heenan Lake (use Heenan Lake fish with better sample sizes)          
+Independence lake fish all from 2010
+```{r}
+w<-m2 %>% filter(Group=="WALK")
+wsub<-w %>% mutate(Diff=abs(Filtered-median(m2$Filtered))) %>% top_n(20,-Diff)
+
+c<-m2 %>% filter(watershedCode=="CAR")
+csub<-c %>% mutate(Diff=abs(Filtered-median(m2$Filtered))) %>% top_n(20,-Diff)
+
+t<-m2 %>% filter(watershedCode=="TKR")
+tsub<-t %>% mutate(Diff=abs(Filtered-median(m2$Filtered))) %>% top_n(20,-Diff)
+
+i<-m2 %>% filter(watershedCode=="IPL")
+isub<-i %>% mutate(Diff=abs(Filtered-median(m2$Filtered))) %>% top_n(20,-Diff)
+
+h<-m2 %>% filter(watershedCode=="CAR_HL") 
+hsub<-h %>% mutate(Diff=abs(Filtered-median(m2$Filtered))) %>% top_n(20,-Diff)
+
+sub<-bind_rows(wsub, csub, tsub, isub, hsub)
+
+```
+
+This gives use 100 fish
+
+```{r}
+
+ggplot(sub) +
+  geom_histogram(aes(x=Filtered, fill=Group)) +
+  scale_fill_viridis_d(option="turbo") +
+  theme_bw() +
+  ylab("Count") +
+  xlab("Filtered Read Number") +
+  theme(panel.grid=element_blank())
+```
+
+
+Let's do some sanity checks by doing some genotype calls on Chrom01 and looking at a PCA
+
+```
