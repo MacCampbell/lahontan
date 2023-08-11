@@ -51,7 +51,7 @@ bamlist
 ```
 
 ```{r}
-m2<-meta %>% left_join(bamlist) %>% mutate(NewPath=paste0("bams",SampleID,".sort.flt.bam"))
+m2<-meta %>% left_join(bamlist) %>% mutate(NewPath=paste0("bams/",SampleID,".sort.flt.bam"))
 m2 %>% group_by(Species_code, Group, Creek) %>% summarize(Count=n())
 write_csv(m2, file="meta/lct-norm-with-path.csv")
 ```
@@ -73,7 +73,7 @@ reads<-bind_rows(reads)
 ```
 
 ```{r}
-m2<-left_join(meta, reads)
+m2<-left_join(m2, reads)
 ```
 
 ```{r}
@@ -132,5 +132,23 @@ ggplot(sub) +
 
 
 Let's do some sanity checks by doing some genotype calls on Chrom01 and looking at a PCA
+
+```{r}
+write_tsv(sub %>% select(NewPath), col_names = FALSE, file="bamlists/100.bamlist")
+write_tsv(sub %>% select(SampleID), col_names = FALSE, file="bamlists/100-samples.txt")
+```
+
+
+Call some SNPs     
+
+```{sh, eval=FALSE}
+run -t 3:00:00 -p high --mem=32G --nodes=1 --ntasks-per-node=1 --cpus-per-task=12 $HOME/angsd/angsd -nthreads 24 \
+-bam bamlists/100.bamlist \
+-minInd 95 -r NC_035077.1 \
+-out $HOME/lahontan/outputs/101/snps-95  \
+-minMaf 0.05 -minMapQ 20 -minQ 20 -GL 1 -doMajorMinor 1 -doMaf 1 -SNP_pval 1e-6 \
+-doGeno 2 -doPost 1 -postCutoff 0.95 -doPlink 2  > outputs/101/snps-95.out 2> outputs/101/snps-95.err &
+```
+
 
 ```
