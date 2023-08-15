@@ -10,6 +10,11 @@ knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message=FALSE)
 
 ```{r}
 library(tidyverse)
+library(ggrepel)
+library(vcfR)
+library(adegenet)
+library(snpR)
+library(ggpubr)
 ```
 
      
@@ -89,6 +94,7 @@ min(m2$Filtered)
 mean(m2$Filtered)
 median(m2$Filtered)
 max(m2$Filtered)
+sd(m2$Filtered)
 ```
 
 
@@ -115,12 +121,26 @@ hsub<-h %>% mutate(Diff=abs(Filtered-median(m2$Filtered))) %>% top_n(20,-Diff)
 
 sub<-bind_rows(wsub, csub, tsub, isub, hsub)
 
+sub<-sub %>% mutate(NewGroup=ifelse(Group=="TRUCK","Truckee",
+                        ifelse(Group=="CARSON", "Carson",
+                        ifelse(Group=="WALK","Walker",
+                        ifelse(Group=="HEENAN","Heenan L.",
+                        ifelse(Group=="IPL","Independence L.","NA"))))))
+```
+
+```{r}
+min(sub$Filtered)
+max(sub$Filtered)
+mean(sub$Filtered)
+median(sub$Filtered)
+max(sub$Filtered)
+sd(sub$Filtered)
 ```
 
 This gives use 100 fish
 
 ```{r}
-
+sub$Group<-factor(sub$NewGroup, levels=c("Truckee","Carson","Walker","Heenan L.","Independence L."))
 ggplot(sub) +
   geom_histogram(aes(x=Filtered, fill=Group)) +
   scale_fill_viridis_d(option="turbo") +
@@ -134,6 +154,7 @@ ggplot(sub) +
 Let's do some sanity checks by doing some genotype calls on Chrom01 and looking at a PCA
 
 ```{r}
+write_csv(sub, file="meta/100-fish-for-diversity-loci.csv")
 write_tsv(sub %>% select(NewPath), col_names = FALSE, file="bamlists/100.bamlist")
 write_tsv(sub %>% select(SampleID), col_names = FALSE, file="bamlists/100-samples.txt")
 ```
@@ -142,7 +163,7 @@ write_tsv(sub %>% select(SampleID), col_names = FALSE, file="bamlists/100-sample
 Call some SNPs     
 
 ```{sh, eval=FALSE}
-run -t 3:00:00 -p high --mem=32G --nodes=1 --ntasks-per-node=1 --cpus-per-task=12 $HOME/angsd/angsd -nthreads 24 \
+srun -t 3:00:00 -p high --mem=32G --nodes=1 --ntasks-per-node=1 --cpus-per-task=12 $HOME/angsd/angsd -nthreads 24 \
 -bam bamlists/100.bamlist \
 -minInd 95 -r NC_035077.1 \
 -out $HOME/lahontan/outputs/101/snps-95  \
@@ -150,5 +171,256 @@ run -t 3:00:00 -p high --mem=32G --nodes=1 --ntasks-per-node=1 --cpus-per-task=1
 -doGeno 2 -doPost 1 -postCutoff 0.95 -doPlink 2  > outputs/101/snps-95.out 2> outputs/101/snps-95.err &
 ```
 
+457 SNPs, seems reasonable     
+
+```{sh, eval=FALSE}
+srun -t 22:00:00 -p high --mem=32G --nodes=1 --ntasks-per-node=1 --cpus-per-task=12 $HOME/angsd/angsd -nthreads 24 \
+-bam bamlists/100.bamlist \
+-minInd 95 -rf $HOME/genomes/mykiss-genbank/chroms.txt  \
+-out $HOME/lahontan/outputs/101/snps-95-chroms  \
+-minMaf 0.05 -minMapQ 20 -minQ 20 -GL 1 -doMajorMinor 1 -doMaf 1 -SNP_pval 1e-6 \
+-doGeno 2 -doPost 1 -postCutoff 0.95 -doPlink 2  > outputs/101/snps-95-chroms.out 2> outputs/101/snps-95-chroms.err &
+
+srun -t 8:00:00 -p high --mem=32G --nodes=1 --ntasks-per-node=1 --cpus-per-task=12 $HOME/angsd/angsd -nthreads 24 \
+-bam bamlists/100.bamlist \
+-minInd 90 -rf $HOME/genomes/mykiss-genbank/chroms.txt  \
+-out $HOME/lahontan/outputs/101/snps-90-chroms  \
+-minMaf 0.05 -minMapQ 20 -minQ 20 -GL 1 -doMajorMinor 1 -doMaf 1 -SNP_pval 1e-6 \
+-doGeno 2 -doPost 1 -postCutoff 0.90 -doPlink 2  > outputs/101/snps-90-chroms.out 2> outputs/101/snps-90-chroms.err &
+
 
 ```
+
+Running across chroms.....
+11873 variants    
+
+
+Import into filter
+
+```{sh, eval=FALSE}
+plink --tped outputs/101/snps-95-chroms.tped --tfam outputs/101/snps-95-chroms.tfam --out outputs/101/snps-95-chroms.binary --recode --allow-extra-chr --noweb
+plink --ped outputs/101/snps-95-chroms.binary.ped --map outputs/101/snps-95-chroms.binary.map --recode vcf --allow-extra-chr -out outputs/101/snps-95-chroms-samples-recode
+
+#vcftools --vcf outputs/101/snps-95-chroms-samples-recode.vcf --remove-indels --min-alleles 2 --max-alleles 2 --max-missing 0.05 --maf 0.1 --max-maf 0.4 --hwe 0.05 \
+ #--out outputs/101/snps-95-chroms-samples-recode-filtered --recode 
+
+vcftools --vcf outputs/101/snps-95-chroms-samples-recode.vcf --maf 0.1 --max-maf 0.4 --hwe 0.05 \
+ --out outputs/101/snps-95-chroms-samples-recode-filtered --recode 
+bcftools +prune -l .1 -w 10000 outputs/101/snps-95-chroms-samples-recode-filtered.recode.vcf > outputs/101/snps-95-chroms-prune.vcf
+
+bcftools +fill-tags outputs/101/snps-95-chroms-prune.vcf -- -t MAF | cut -f 1,2,4,5,8 | grep -v "#" > outputs/101/snps95.MAF.txt
+
+```
+
+Pruning pretty hard as snps close to each other, giving us 21 snps on Chrom 1, 485 across across genome
+
+
+```{r}
+snpdat<-read_tsv("outputs/101/snps95.MAF.txt", col_names = c("Chromosome","Position","Major","Minor","Freq")) %>%
+  separate(Freq, into=c("Value","MAF"), sep="=")
+
+ggplot(snpdat %>% group_by(Chromosome) %>% summarize(Count=n())) +
+  geom_bar(aes(x=Chromosome, y=Count), stat='identity') +
+  theme_bw() +
+  theme(panel.grid = element_blank()) +
+  theme(axis.text.x=element_text(angle=45, vjust=1, hjust=1)) +
+  xlab("\nChromosome") +
+  ylab("Count\n") +
+  theme(axis.title = element_text(face="bold", size=14)) 
+  ggsave("outputs/101/snp-distribution.pdf", width = 8, height=4)
+  ggsave("outputs/101/snp-distribution.jpeg", width = 8, height=4)
+
+```
+
+````{r}
+snpdat$MAF<-as.numeric(snpdat$MAF)
+ggplot(snpdat) +
+  geom_freqpoly(aes(x=MAF)) +
+  theme_bw() +
+  theme(panel.grid = element_blank()) +
+  ylab("Count\n") +
+  xlab("\nMAF") +
+  theme(axis.title = element_text(face="bold", size=14)) +
+  theme(axis.text=element_text(size=10))
+ 
+ggsave("outputs/101/snp-freq-poly.pdf")
+min(snpdat$MAF)
+mean(snpdat$MAF)
+median(snpdat$MAF)
+max(snpdat$MAF)
+```
+      
+```{r}
+file<-"outputs/101/snps-95-chroms-prune.vcf"
+my.dat<-import.snpR.data(genotypes = file, sample.meta = sub)
+#my.dat<-import.snpR.data(genotypes = "outputs/101/snps-95-samples-recode.vcf", sample.meta = sub)
+```
+
+```{r}
+p<-plot_clusters(my.dat, facets = "Group", viridis.option = "H" )
+pdf<-p$data$pca
+```
+
+```{r}
+x<-calc_pairwise_fst(my.dat, "Group")
+
+groupfst<-get.snpR.stats(x, "Group", "fst")
+#this is weighted means   
+mg<-groupfst$fst.matrix$Group
+
+as.tibble(mg,2)
+```
+
+
+```{r}
+picalc<-calc_pi(my.dat,"Group")
+pi<-get.snpR.stats(picalc,"Group","pi")
+pi$weighted.means
+```
+
+```{r}
+pidf<-pi$single %>% as_tibble()
+
+pidf$subfacet<-factor(pidf$subfacet, levels=c("Truckee","Carson","Walker","Heenan L.","Independence L."))
+
+piplot<-ggplot(pidf %>% group_by(subfacet,CHROM) %>% summarize(meanpi=mean(pi))) +
+  geom_boxplot(aes(x=subfacet,y=meanpi, fill=subfacet), alpha=0.75) +
+  theme_bw() +
+  theme(panel.grid = element_blank()) +
+  ylab("Pi") +
+  theme(axis.text.x = element_text(angle=45, hjust=1, face="bold", size=12)) +
+  xlab("Group") +
+  theme(legend.position = "") +
+  scale_fill_viridis_d(option="H") +
+  xlab("") +
+  ylab("Theta Pi\n")
+
+piplot
+
+ggsave("outputs/101/piplot.pdf")
+
+pidf %>% group_by(subfacet,CHROM) %>% summarize(meanpi=mean(pi)) %>% group_by(subfacet) %>% summarize(Median=median(meanpi))
+```
+
+
+## PCA another way
+
+```{r}
+vcf<-read.vcfR(file=file)
+genind<-vcfR2genind(vcf)
+genind@pop<-sub$group
+gen<-genind
+X <- tab(gen, NA.method="mean")
+
+pca1 <- dudi.pca(X,scannf=FALSE,scale=FALSE,nf=6)
+plot(pca1$li)
+```
+
+
+```{r}
+pc<-pca1$l1 %>% as_tibble()
+pc<-pc %>% bind_cols(sub)
+
+var<-pca1$eig/(sum(pca1$eig)) *100
+pc
+```
+
+```{r}
+text<-pc %>% group_by(Group) %>% summarize(PC1=mean(RS1), PC2=mean(RS2), PC3=mean(RS3), PC4=mean(RS4))
+pc12<-ggplot(pc) +
+  geom_point(aes(x=RS1, y=RS2, fill=Group), pch=21, alpha=0.8) +
+  geom_text_repel(data=text, aes(x=PC1, y=PC2, label=Group), fontface="bold", max.overlaps = Inf) +
+  theme_bw() +
+  theme(panel.grid = element_blank()) +
+  xlab(paste0("PC 1 ",round(var[1],2),"%")) +
+  ylab(paste0("PC 2 ",round(var[2],2),"%")) +
+  theme(legend.position = "none") +
+  scale_fill_viridis_d(option="H")
+
+
+pc13<-ggplot(pc) +
+  geom_point(aes(x=RS1, y=RS3, fill=Group), pch=21, alpha=0.8) +
+  geom_text_repel(data=text, aes(x=PC1, y=PC3, label=Group), fontface="bold", max.overlaps = Inf) +
+  theme_bw() +
+  theme(panel.grid = element_blank()) +
+  xlab(paste0("PC 1 ",round(var[1],2),"%")) +
+  ylab(paste0("PC 3 ",round(var[3],2),"%")) +
+  theme(legend.position = "none") +
+  scale_fill_viridis_d(option="H")
+
+ggarrange(pc12 + ggtitle("A") + theme(plot.title = element_text(size=14, face="bold")),
+          pc13 + ggtitle("B") + theme(plot.title = element_text(size=14, face="bold")), ncol=2)
+ggsave("outputs/101/pcs123.pdf", width=8, height=4)
+
+```
+```{r}
+ggplot(pc) +
+  geom_point(aes(x=RS1, y=RS1, fill=Group), pch=21, alpha=0.8) +
+  geom_text_repel(data=text, aes(x=PC1, y=PC1, label=Group), fontface="bold", max.overlaps = Inf) +
+  theme_bw() +
+  theme(panel.grid = element_blank()) +
+  xlab(paste0("PC 1 ",round(var[1],2),"%")) +
+  ylab(paste0("PC 1 ",round(var[1],2),"%")) +
+  theme(legend.position = "none") +
+  scale_fill_viridis_d(option="H")
+
+ggplot(pc) +
+  geom_point(aes(x=RS2, y=RS2, fill=Group), pch=21, alpha=0.8) +
+  geom_text_repel(data=text, aes(x=PC2, y=PC2, label=Group), fontface="bold", max.overlaps = Inf) +
+  theme_bw() +
+  theme(panel.grid = element_blank()) +
+  xlab(paste0("PC 2 ",round(var[2],2),"%")) +
+  ylab(paste0("PC 2 ",round(var[2],2),"%")) +
+  theme(legend.position = "none") +
+  scale_fill_viridis_d(option="H")
+```
+
+```{r}
+ggplot(pc %>% filter(Group=="Truckee")) +
+  geom_point(aes(x=RS1, y=RS1, fill=Creek), pch=21, alpha=0.8) +
+  theme_bw() +
+  theme(panel.grid = element_blank()) +
+  xlab(paste0("PC 1 ",round(var[1],2),"%")) +
+  ylab(paste0("PC 1 ",round(var[1],2),"%")) 
+```
+
+## Evidence for genetic structuring    
+```{r,eval=FALSE}
+kstat<-find.clusters(genind, n.pca=85) #.nclust=4
+save(kstat, file="outputs/101/kstat.rda")
+```
+
+
+```{r}
+load("outputs/101/kstat.rda")
+```
+
+```{r}
+bic<-kstat$Kstat %>% as_tibble() %>% rename(BIC=value) %>% mutate(K=1:n())
+ggplot(bic, aes(x=K, y=BIC)) +
+  geom_line() +
+  geom_point() +
+  theme_bw() +
+  theme(panel.grid = element_blank()) +
+  #ggtitle("BIC Scores from K Means Clustering of Diversity Loci") +
+  ylab("BIC\n") +
+  xlab("\nK") +
+ # theme(plot.title=element_text(hjust=0.5, size=14, face="bold")) +
+  theme(axis.title=element_text(size=12)) +
+  scale_x_continuous(breaks=c(1,2,3,4,5,6,7,8,9,10), labels=c("1","2","3","4","5","6","7","8","9","10")) +
+  theme(axis.title = element_text(size=12, face="bold")) +
+  theme(axis.text = element_text(size=10))
+  
+ggsave("outputs/101/kmeans.pdf")
+ggsave("outputs/101/kemans.jpeg")
+```
+
+
+
+Create fasta/tsv with flanking data/major-minor alleles in outputs/101 on farm
+
+`./100.1-extract-flanking.pl outputs/101/snps95.MAF.txt > outputs/101/lct-diversity-snps.fasta`     
+
+`cat outputs/101/lct-diversity-snps.fasta  | perl -pe 's/(\d)\n/$1\t/g' | perl -pe 's/>//g' > outputs/101/lct-diversity-snps.tsv `
+ 
+ 

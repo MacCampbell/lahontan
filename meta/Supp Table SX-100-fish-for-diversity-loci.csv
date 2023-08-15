@@ -1,0 +1,101 @@
+SampleID,Group,watershedCode,Location,Metacode,Species,Species_code,SiteID,Creek,Sampling_Year,Starting_Material,Filtered Reads,Coverage
+Y200116WKR_RA,Walker,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,1506688,0.101845
+Y200120WKR_RA,Walker,BYDY,ByDayCreek,WALK_ByDay,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,1501537,0.100703
+Y200065WKR_RA,Walker,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,1670958,0.111931
+Y200066WKR_RA,Walker,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,1643061,0.110435
+Y200067WKR_RA,Walker,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,1630253,0.109503
+Y200077WKR_RA,Walker,MILL,MILL,WALK_Mill,Lahontan Cutthroat Trout,LCT,WALKER,Mill Creek,2020,fin clips,1520802,0.10221
+Y210003WKR_RA,Walker,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,1501276,0.101591
+Y210005WKR_RA,Walker,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,1642123,0.11122
+Y210019WKR_RA,Walker,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Murphy Creek,2020,fin clips,1605791,0.108698
+Y210026WKR_RA,Walker,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,1707842,0.115448
+Y210027WKR_RA,Walker,MCT,MurphyCreek,WALK_Murphy,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,1505408,0.101886
+Y200125WKR_RA,Walker,SLV,SilverCreek,WALK_Silver,Lahontan Cutthroat Trout,LCT,WALKER,Silver Creek,2020,fin clips,1578397,0.106584
+Y200006WKR_RA,Walker,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,1593574,0.106661
+Y200012WKR_RA,Walker,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,1577685,0.104775
+Y200015WKR_RA,Walker,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Slinkard Creek,2020,fin clips,1717244,0.11525
+Y200028WKR_RA,Walker,SKD,SKD,WALK_Slink,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,1539765,0.102389
+Y200042WKR_RA,Walker,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,1672851,0.11244
+Y200045WKR_RA,Walker,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,1612653,0.108434
+Y200055WKR_RA,Walker,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,1661759,0.111758
+Y200059WKR_RA,Walker,WLF,WLF,WALK_Wolf,Lahontan Cutthroat Trout,LCT,WALKER,Wolf Creek,2020,fin clips,1632698,0.10956
+Y170012CAR_RA,Carson,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1479150,0.0992654
+Y170015CAR_RA,Carson,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1530601,0.102524
+Y170030CAR_RA,Carson,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1759810,0.118452
+Y170031CAR_RA,Carson,CAR,EF,CAR_EFork,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1718254,0.115305
+Y170036CAR_RA,Carson,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1765547,0.117674
+Y170041CAR_RA,Carson,CAR,East Fork Golden Canyon Creek,CAR_EFGoldenCany,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1759546,0.118273
+Y170045CAR_RA,Carson,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1716436,0.114815
+Y170053CAR_RA,Carson,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1661865,0.111467
+Y170055CAR_RA,Carson,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1427007,0.0958173
+Y170062CAR_RA,Carson,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1470764,0.0986729
+Y170067CAR_RA,Carson,CAR,East Fork Murray Canyon Creek,CAR_EFMurray,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1649165,0.110914
+Y170076CAR_RA,Carson,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1741842,0.116529
+Y170077CAR_RA,Carson,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1631047,0.107053
+Y170085CAR_RA,Carson,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1727070,0.114443
+Y170087CAR_RA,Carson,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1535095,0.102702
+Y170088CAR_RA,Carson,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1617827,0.108569
+Y170090CAR_RA,Carson,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1442106,0.0965573
+Y170095CAR_RA,Carson,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1471472,0.0988964
+Y170098CAR_RA,Carson,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1531247,0.102348
+Y170102CAR_RA,Carson,CAR,East Fork Poison Flat Creek,CAR_EFPoison,Lahontan Cutthroat Trout,LCT,CARSON,East Fork,2017,Extracted DNA,1493208,0.100173
+Y160002TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1541520,0.10232
+Y160005TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1682535,0.111376
+Y160007TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1484038,0.0986522
+Y160010TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1756999,0.116583
+Y160013TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1554189,0.10284
+Y160014TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1685821,0.111716
+Y160019TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1479959,0.09813
+Y160020TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1521508,0.100845
+Y160022TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1684136,0.111576
+Y160023TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1460251,0.0970014
+Y160025TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1627918,0.107823
+Y160027TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1730460,0.114792
+Y160029TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1571674,0.104042
+Y160036TKR_RA,Truckee,TKR,PC,TKR_Pole,Lahontan Cutthroat Trout,LCT,TRUCKEE,Pole Creek,2016,Extract,1454585,0.0963825
+Y170002TKR_RA,Truckee,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,1749664,0.11582
+Y170003TKR_RA,Truckee,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,1465298,0.0972813
+Y170010TKR_RA,Truckee,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,1651093,0.109411
+Y170015TKR_RA,Truckee,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,1670812,0.110627
+Y170017TKR_RA,Truckee,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,1717466,0.113273
+Y170018TKR_RA,Truckee,TKR,UP,TKR_Upper,Lahontan Cutthroat Trout,LCT,TRUCKEE,Upper,2017,Extract,1743526,0.11531
+Y160001IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1335077,0.0892873
+Y160003IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1316316,0.0882754
+Y160006IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1028549,0.0688179
+Y160007IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1207514,0.0807969
+Y160009IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1695325,0.112979
+Y160013IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1257446,0.0839791
+Y160016IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1551876,0.103907
+Y160017IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1212659,0.0812636
+Y160018IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1195746,0.0796264
+Y160023IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1306995,0.087227
+Y160024IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1229908,0.0822833
+Y160025IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1155818,0.0775934
+Y160028IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1603772,0.107055
+Y160030IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,2301530,0.153263
+Y160033IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1881507,0.125521
+Y160034IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1546828,0.103479
+Y160035IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1147397,0.0768841
+Y160038IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,1430032,0.0956975
+Y160039IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,888018,0.0596323
+Y160041IPL_RA,Independence L.,IPL,IPL,INDEPEN,Lahontan Cutthroat Trout,LCT,IPL,Independence Lake,2016,Extracted DNA,905679,0.0608892
+Y160016CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1502684,0.100462
+Y160029CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1866488,0.123408
+Y160033CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1392719,0.0924454
+Y160037CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1510325,0.101053
+Y160043CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1616499,0.107179
+Y160047CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1618901,0.107939
+Y160048CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1398313,0.0926739
+Y160049CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1324672,0.0880842
+Y160051CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1674210,0.11111
+Y160054CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1351545,0.0902779
+Y160057CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1807224,0.120551
+Y160058CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1521107,0.101075
+Y160060CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1661157,0.110582
+Y160061CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1434827,0.0956302
+Y160063CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1545576,0.103012
+Y160064CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1434125,0.0959695
+Y160073CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1646157,0.110376
+Y160077CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1335765,0.0899346
+Y160080CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1590254,0.107152
+Y160081CAR_RA,Heenan L.,CAR_HL,HL,HEENAN,Lahontan Cutthroat Trout,LCT,HEENAN,Heenan Lake,2010,Extracted DNA,1387784,0.09308
